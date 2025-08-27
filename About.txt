@@ -1,0 +1,7951 @@
+/* Home Page */
+
+position: relative;
+width: 1728px;
+height: 5414px;
+
+background: #F7F7F7;
+
+
+/* Group 31 */
+
+position: absolute;
+width: 1040px;
+height: 773px;
+left: 698px;
+top: 178px;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 329px;
+height: 313px;
+left: 698px;
+top: 638px;
+
+background: rgba(187, 35, 218, 0.7);
+filter: blur(133.3px);
+
+
+/* Vector */
+
+position: absolute;
+width: 329px;
+height: 313px;
+left: 1409px;
+top: 178px;
+
+background: rgba(173, 83, 137, 0.7);
+filter: blur(133.3px);
+
+
+/* Info */
+
+position: absolute;
+width: 1728px;
+height: 180px;
+left: 0px;
+top: 1119px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 1728px;
+height: 180px;
+left: 0px;
+top: 1119px;
+
+background: #31003B;
+
+
+/* Inner Info */
+
+position: absolute;
+width: 1541px;
+height: 144px;
+left: 94px;
+top: 1135px;
+
+
+
+/* Trusted */
+
+position: absolute;
+width: 317px;
+height: 92px;
+left: 94px;
+top: 1161px;
+
+
+
+/* Trusted By Over */
+
+position: absolute;
+width: 219px;
+height: 42px;
+left: 94px;
+top: 1161px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 42px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* 500+ Users since 2024 */
+
+position: absolute;
+width: 317px;
+height: 42px;
+left: 94px;
+top: 1211px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 42px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Appointment */
+
+position: absolute;
+width: 310px;
+height: 112px;
+left: 1325px;
+top: 1151px;
+
+
+
+/* Appointments Booked */
+
+position: absolute;
+width: 310px;
+height: 42px;
+left: 1325px;
+top: 1221px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 42px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* 236+ */
+
+position: absolute;
+width: 67px;
+height: 42px;
+left: 1445px;
+top: 1151px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 900;
+font-size: 28px;
+line-height: 42px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Line 3 */
+
+position: absolute;
+width: 144px;
+height: 0px;
+left: 596px;
+top: 1135px;
+
+border: 1px solid #F7F7F7;
+transform: rotate(90deg);
+
+
+/* Line 4 */
+
+position: absolute;
+width: 144px;
+height: 0px;
+left: 1138px;
+top: 1135px;
+
+border: 1px solid #F7F7F7;
+transform: rotate(90deg);
+
+
+/* Reviews */
+
+position: absolute;
+width: 172px;
+height: 112px;
+left: 781px;
+top: 1151px;
+
+
+
+/* 365 Reviews */
+
+position: absolute;
+width: 172px;
+height: 42px;
+left: 781px;
+top: 1221px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 42px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* star */
+
+position: absolute;
+width: 44px;
+height: 42px;
+left: 845px;
+top: 1151px;
+
+
+
+/* 3.5 */
+
+position: absolute;
+width: 44px;
+height: 42px;
+left: 845px;
+top: 1151px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 42px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Services */
+
+position: absolute;
+width: 1540px;
+height: 709px;
+left: 94px;
+top: 1419px;
+
+
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 144px;
+gap: 10px;
+
+position: absolute;
+width: 436px;
+height: 70px;
+left: calc(50% - 436px/2);
+top: 2058px;
+
+background: linear-gradient(270deg, #BB23DA 0%, #AD5389 100%);
+border-radius: 8px;
+
+
+/* Get Listed */
+
+width: 148px;
+height: 38px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 38px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Services */
+
+position: absolute;
+width: 1540px;
+height: 419px;
+left: calc(50% - 1540px/2 - 0px);
+top: 1559px;
+
+
+
+/* Frame 6 */
+
+position: absolute;
+left: 5.45%;
+right: 5.39%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Group 34 */
+
+position: absolute;
+width: 2772.5px;
+height: 415px;
+left: 0.15px;
+top: 2px;
+
+
+
+/* Product/light */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 437.08px;
+height: 413px;
+left: 0.15px;
+top: 2px;
+
+/* Shades/White */
+background: #FFFFFF;
+border: 0.892009px solid #A0A0A0;
+border-radius: 3.56803px;
+
+
+/* Container */
+
+position: absolute;
+width: 408.54px;
+height: 323.8px;
+left: 14.27px;
+top: 14.27px;
+
+
+
+/* Image */
+
+position: absolute;
+width: 408.54px;
+height: 165.91px;
+left: 0px;
+top: 0px;
+
+background: url(handsome-man-barber-shop-styling-hair.jpg);
+border-radius: 3.56803px;
+
+
+/* Like */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 5.35205px;
+gap: 8.92px;
+
+position: absolute;
+width: 28.54px;
+height: 28.54px;
+right: 8.92px;
+top: 8.92px;
+
+/* Shades/White */
+background: #FFFFFF;
+border-radius: 44.6004px;
+
+
+/* Icon */
+
+width: 17.84px;
+height: 17.84px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Shape */
+
+position: absolute;
+left: 7.58%;
+right: 7.58%;
+top: 15.83%;
+bottom: 7.7%;
+
+/* Neutral / 800 */
+background: #191D23;
+
+
+/* Content */
+
+position: absolute;
+width: 408.54px;
+height: 147.18px;
+left: 0px;
+top: 176.62px;
+
+
+
+/* Header */
+
+position: absolute;
+width: 342.53px;
+height: 35.68px;
+left: 0px;
+top: 0px;
+
+
+
+/* Subtitle */
+
+position: absolute;
+width: 342.53px;
+height: 16.95px;
+left: 0px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12.4881px;
+line-height: 19px;
+
+/* Neutral / 500 */
+color: #64748B;
+
+
+
+/* Title */
+
+position: absolute;
+width: 342.53px;
+height: 18.73px;
+left: 0px;
+top: 16.95px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 14.2721px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+color: #353535;
+
+
+
+/* Price */
+
+position: absolute;
+width: 52px;
+height: 27px;
+left: 356.8px;
+top: 1.78px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 800;
+font-size: 17.8402px;
+line-height: 27px;
+/* identical to box height */
+text-align: right;
+
+color: #353535;
+
+
+
+/* Get the perfect cut at Khushboo Salon—expert styling, tailored to you. Look fresh, feel confident! */
+
+position: absolute;
+width: 380.89px;
+height: 41.92px;
+left: 0px;
+top: 46.38px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12.4881px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #64748B;
+
+
+
+/* State Bank Chowk, near postal ground, Yavatmal. */
+
+position: absolute;
+width: 307px;
+height: 19px;
+left: 0px;
+top: 97.23px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12.4881px;
+line-height: 19px;
+/* identical to box height */
+
+color: #353535;
+
+
+
+/* rating */
+
+position: absolute;
+width: 138.77px;
+height: 24.2px;
+left: 0px;
+top: 127.56px;
+
+
+
+/* 4.5 / 5 */
+
+position: absolute;
+width: 40px;
+height: 19px;
+left: 34.79px;
+top: 130.23px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 12.4881px;
+line-height: 19px;
+/* identical to box height */
+
+color: #353535;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 93.77%;
+top: 86.67%;
+bottom: -3.11%;
+
+background: #FFC64A;
+
+
+/* Reviews */
+
+position: absolute;
+width: 54.92px;
+height: 24.08px;
+left: 83.85px;
+top: 127.56px;
+
+
+
+/* Ellipse */
+
+position: absolute;
+width: 24.08px;
+height: 24.08px;
+left: 114.68px;
+top: 127.56px;
+
+background: url(.png);
+
+
+/* Ellipse */
+
+position: absolute;
+width: 24.08px;
+height: 24.08px;
+left: 102.64px;
+top: 127.56px;
+
+background: url(.png);
+
+
+/* Ellipse */
+
+position: absolute;
+width: 24.08px;
+height: 24.08px;
+left: 92.77px;
+top: 127.56px;
+
+background: url(.png);
+
+
+/* Ellipse */
+
+position: absolute;
+width: 24.08px;
+height: 24.08px;
+left: 83.85px;
+top: 127.56px;
+
+background: #BB23DA;
+
+
+/* 128 + */
+
+position: absolute;
+width: 17px;
+height: 10px;
+left: 87.42px;
+top: 134.69px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 6.5414px;
+line-height: 10px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Buttons */
+
+position: absolute;
+width: 408.54px;
+height: 39.25px;
+left: 14.27px;
+top: 359.48px;
+
+
+
+/* Cart */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 57.09px;
+height: 39.25px;
+left: 0px;
+top: 0px;
+
+/* Shades/White */
+background: #FFFFFF;
+/* Neutral / 200 */
+border: 0.892009px solid #D0D5DD;
+border-radius: 3.56803px;
+
+
+/* stash:save-ribbon */
+
+position: absolute;
+width: 21.41px;
+height: 21.41px;
+left: 17.84px;
+top: 8.92px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 12.5%;
+bottom: 14.31%;
+
+border: 1.33801px solid #A0A0A0;
+
+
+/* CTA */
+
+position: absolute;
+width: 340.75px;
+height: 39.25px;
+left: 67.79px;
+top: 0px;
+
+background: linear-gradient(90deg, #AD5389 0%, #BB23DA 100%);
+border-radius: 3.56803px;
+
+
+/* Layout */
+
+position: absolute;
+width: 116.85px;
+height: 17.84px;
+left: 111.95px;
+top: 10.7px;
+
+
+
+/* Label */
+
+position: absolute;
+width: 110px;
+height: 18px;
+left: 3.57px;
+top: calc(50% - 18px/2 + 0.08px);
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 600;
+font-size: 14.2721px;
+line-height: 18px;
+/* identical to box height, or 125% */
+
+color: #FFFFFF;
+
+
+
+/* Product/light */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 437.08px;
+height: 413px;
+left: 934.32px;
+top: 2px;
+
+/* Shades/White */
+background: #FFFFFF;
+border: 0.892009px solid #A0A0A0;
+border-radius: 3.56803px;
+
+
+/* Container */
+
+position: absolute;
+width: 408.54px;
+height: 323.8px;
+left: 14.27px;
+top: 14.27px;
+
+
+
+/* Image */
+
+position: absolute;
+width: 408.54px;
+height: 165.91px;
+left: 0px;
+top: 0px;
+
+background: url(2149141749.jpg);
+border-radius: 3.56803px;
+
+
+/* Like */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 5.35205px;
+gap: 8.92px;
+
+position: absolute;
+width: 28.54px;
+height: 28.54px;
+right: 8.92px;
+top: 8.92px;
+
+/* Shades/White */
+background: #FFFFFF;
+border-radius: 44.6004px;
+
+
+/* Icon */
+
+width: 17.84px;
+height: 17.84px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Shape */
+
+position: absolute;
+left: 7.59%;
+right: 7.58%;
+top: 15.83%;
+bottom: 7.7%;
+
+/* Neutral / 800 */
+background: #191D23;
+
+
+/* Content */
+
+position: absolute;
+width: 408.54px;
+height: 147.18px;
+left: 0px;
+top: 176.62px;
+
+
+
+/* Header */
+
+position: absolute;
+width: 342.53px;
+height: 35.68px;
+left: 0px;
+top: 0px;
+
+
+
+/* Subtitle */
+
+position: absolute;
+width: 342.53px;
+height: 16.95px;
+left: 0px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12.4881px;
+line-height: 19px;
+
+/* Neutral / 500 */
+color: #64748B;
+
+
+
+/* Title */
+
+position: absolute;
+width: 342.53px;
+height: 18.73px;
+left: 0px;
+top: 16.95px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 14.2721px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+color: #353535;
+
+
+
+/* Price */
+
+position: absolute;
+width: 52px;
+height: 27px;
+left: 356.8px;
+top: 1.78px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 800;
+font-size: 17.8402px;
+line-height: 27px;
+/* identical to box height */
+text-align: right;
+
+color: #353535;
+
+
+
+/* Get the perfect cut at Khushboo Salon—expert styling, tailored to you. Look fresh, feel confident! */
+
+position: absolute;
+width: 380.89px;
+height: 41.92px;
+left: 0px;
+top: 46.38px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12.4881px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #64748B;
+
+
+
+/* State Bank Chowk, near postal ground, Yavatmal. */
+
+position: absolute;
+width: 307px;
+height: 19px;
+left: 0px;
+top: 97.23px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12.4881px;
+line-height: 19px;
+/* identical to box height */
+
+color: #353535;
+
+
+
+/* rating */
+
+position: absolute;
+width: 138.77px;
+height: 24.2px;
+left: 0px;
+top: 127.56px;
+
+
+
+/* 4.5 / 5 */
+
+position: absolute;
+width: 40px;
+height: 19px;
+left: 34.79px;
+top: 130.23px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 12.4881px;
+line-height: 19px;
+/* identical to box height */
+
+color: #353535;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 93.77%;
+top: 86.67%;
+bottom: -3.11%;
+
+background: #FFC64A;
+
+
+/* Reviews */
+
+position: absolute;
+width: 54.92px;
+height: 24.08px;
+left: 83.85px;
+top: 127.56px;
+
+
+
+/* Ellipse */
+
+position: absolute;
+width: 24.08px;
+height: 24.08px;
+left: 114.69px;
+top: 127.56px;
+
+background: url(.png);
+
+
+/* Ellipse */
+
+position: absolute;
+width: 24.08px;
+height: 24.08px;
+left: 102.64px;
+top: 127.56px;
+
+background: url(.png);
+
+
+/* Ellipse */
+
+position: absolute;
+width: 24.08px;
+height: 24.08px;
+left: 92.77px;
+top: 127.56px;
+
+background: url(.png);
+
+
+/* Ellipse */
+
+position: absolute;
+width: 24.08px;
+height: 24.08px;
+left: 83.85px;
+top: 127.56px;
+
+background: #BB23DA;
+
+
+/* 128 + */
+
+position: absolute;
+width: 17px;
+height: 10px;
+left: 87.42px;
+top: 134.69px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 6.5414px;
+line-height: 10px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Buttons */
+
+position: absolute;
+width: 408.54px;
+height: 39.25px;
+left: 14.27px;
+top: 359.48px;
+
+
+
+/* Cart */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 57.09px;
+height: 39.25px;
+left: 0px;
+top: 0px;
+
+/* Shades/White */
+background: #FFFFFF;
+/* Neutral / 200 */
+border: 0.892009px solid #D0D5DD;
+border-radius: 3.56803px;
+
+
+/* stash:save-ribbon */
+
+position: absolute;
+width: 21.41px;
+height: 21.41px;
+left: 17.84px;
+top: 8.92px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 12.5%;
+bottom: 14.31%;
+
+border: 1.33801px solid #A0A0A0;
+
+
+/* CTA */
+
+position: absolute;
+width: 340.75px;
+height: 39.25px;
+left: 67.79px;
+top: 0px;
+
+background: linear-gradient(90deg, #AD5389 0%, #BB23DA 100%);
+border-radius: 3.56803px;
+
+
+/* Layout */
+
+position: absolute;
+width: 116.85px;
+height: 17.84px;
+left: 111.95px;
+top: 10.7px;
+
+
+
+/* Label */
+
+position: absolute;
+width: 110px;
+height: 18px;
+left: 3.57px;
+top: calc(50% - 18px/2 + 0.08px);
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 600;
+font-size: 14.2721px;
+line-height: 18px;
+/* identical to box height, or 125% */
+
+color: #FFFFFF;
+
+
+
+/* Product/light */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 437.08px;
+height: 413px;
+left: 467.24px;
+top: 2px;
+
+/* Shades/White */
+background: #FFFFFF;
+border: 0.892009px solid #A0A0A0;
+border-radius: 3.56803px;
+
+
+/* Container */
+
+position: absolute;
+width: 408.54px;
+height: 323.8px;
+left: 14.27px;
+top: 14.27px;
+
+
+
+/* Image */
+
+position: absolute;
+width: 408.54px;
+height: 165.91px;
+left: 0px;
+top: 0px;
+
+background: url(2148242867.jpg);
+border-radius: 3.56803px;
+
+
+/* Like */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 5.35205px;
+gap: 8.92px;
+
+position: absolute;
+width: 28.54px;
+height: 28.54px;
+right: 8.92px;
+top: 8.92px;
+
+/* Shades/White */
+background: #FFFFFF;
+border-radius: 44.6004px;
+
+
+/* Icon */
+
+width: 17.84px;
+height: 17.84px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Shape */
+
+position: absolute;
+left: 7.59%;
+right: 7.58%;
+top: 15.83%;
+bottom: 7.7%;
+
+/* Neutral / 800 */
+background: #191D23;
+
+
+/* Content */
+
+position: absolute;
+width: 408.54px;
+height: 147.18px;
+left: 0px;
+top: 176.62px;
+
+
+
+/* Header */
+
+position: absolute;
+width: 342.53px;
+height: 35.68px;
+left: 0px;
+top: 0px;
+
+
+
+/* Subtitle */
+
+position: absolute;
+width: 342.53px;
+height: 16.95px;
+left: 0px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12.4881px;
+line-height: 19px;
+
+/* Neutral / 500 */
+color: #64748B;
+
+
+
+/* Title */
+
+position: absolute;
+width: 342.53px;
+height: 18.73px;
+left: 0px;
+top: 16.95px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 14.2721px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+color: #353535;
+
+
+
+/* Price */
+
+position: absolute;
+width: 45px;
+height: 27px;
+left: 363.05px;
+top: 1.78px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 800;
+font-size: 17.8402px;
+line-height: 27px;
+/* identical to box height */
+text-align: right;
+
+color: #353535;
+
+
+
+/* Sharp, stylish, and perfectly groomed—elevate your beard game at Graphio! */
+
+position: absolute;
+width: 380.89px;
+height: 41.92px;
+left: 0px;
+top: 46.38px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12.4881px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #64748B;
+
+
+
+/* State Bank Chowk, near postal ground, Yavatmal. */
+
+position: absolute;
+width: 307px;
+height: 19px;
+left: 0px;
+top: 97.23px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12.4881px;
+line-height: 19px;
+/* identical to box height */
+
+color: #353535;
+
+
+
+/* rating */
+
+position: absolute;
+width: 138.77px;
+height: 24.2px;
+left: 0px;
+top: 127.56px;
+
+
+
+/* 4.3 / 5 */
+
+position: absolute;
+width: 40px;
+height: 19px;
+left: 34.79px;
+top: 130.23px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 12.4881px;
+line-height: 19px;
+/* identical to box height */
+
+color: #353535;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 93.77%;
+top: 86.67%;
+bottom: -3.11%;
+
+background: #FFC64A;
+
+
+/* Reviews */
+
+position: absolute;
+width: 54.92px;
+height: 24.08px;
+left: 83.85px;
+top: 127.56px;
+
+
+
+/* Ellipse */
+
+position: absolute;
+width: 24.08px;
+height: 24.08px;
+left: 114.68px;
+top: 127.56px;
+
+background: url(.png);
+
+
+/* Ellipse */
+
+position: absolute;
+width: 24.08px;
+height: 24.08px;
+left: 102.64px;
+top: 127.56px;
+
+background: url(.png);
+
+
+/* Ellipse */
+
+position: absolute;
+width: 24.08px;
+height: 24.08px;
+left: 92.77px;
+top: 127.56px;
+
+background: url(.png);
+
+
+/* Ellipse */
+
+position: absolute;
+width: 24.08px;
+height: 24.08px;
+left: 83.85px;
+top: 127.56px;
+
+background: #BB23DA;
+
+
+/* 105 + */
+
+position: absolute;
+width: 17px;
+height: 10px;
+left: 87.42px;
+top: 134.69px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 6.5414px;
+line-height: 10px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Buttons */
+
+position: absolute;
+width: 408.54px;
+height: 39.25px;
+left: 14.27px;
+top: 359.48px;
+
+
+
+/* Cart */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 57.09px;
+height: 39.25px;
+left: 0px;
+top: 0px;
+
+/* Shades/White */
+background: #FFFFFF;
+/* Neutral / 200 */
+border: 0.892009px solid #D0D5DD;
+border-radius: 3.56803px;
+
+
+/* stash:save-ribbon */
+
+position: absolute;
+width: 21.41px;
+height: 21.41px;
+left: 17.84px;
+top: 8.92px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 12.5%;
+bottom: 14.31%;
+
+border: 1.33801px solid #A0A0A0;
+
+
+/* CTA */
+
+position: absolute;
+width: 340.75px;
+height: 39.25px;
+left: 67.79px;
+top: 0px;
+
+background: linear-gradient(90deg, #AD5389 0%, #BB23DA 100%);
+border-radius: 3.56803px;
+
+
+/* Layout */
+
+position: absolute;
+width: 116.85px;
+height: 17.84px;
+left: 111.95px;
+top: 10.7px;
+
+
+
+/* Label */
+
+position: absolute;
+width: 110px;
+height: 18px;
+left: 3.57px;
+top: calc(50% - 18px/2 + 0.08px);
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 600;
+font-size: 14.2721px;
+line-height: 18px;
+/* identical to box height, or 125% */
+
+color: #FFFFFF;
+
+
+
+/* Product/light */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 437.08px;
+height: 413px;
+left: 1401.41px;
+top: 4px;
+
+/* Shades/White */
+background: #FFFFFF;
+border: 0.892009px solid #A0A0A0;
+border-radius: 3.56803px;
+
+
+/* Container */
+
+position: absolute;
+width: 408.54px;
+height: 323.8px;
+left: 14.27px;
+top: 14.27px;
+
+
+
+/* Image */
+
+position: absolute;
+width: 408.54px;
+height: 165.91px;
+left: 0px;
+top: 0px;
+
+background: url(5890);
+border-radius: 3.56803px;
+
+
+/* Like */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 5.35205px;
+gap: 8.92px;
+
+position: absolute;
+width: 28.54px;
+height: 28.54px;
+right: 8.92px;
+top: 8.92px;
+
+/* Shades/White */
+background: #FFFFFF;
+border-radius: 44.6004px;
+
+
+/* Icon */
+
+width: 17.84px;
+height: 17.84px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Shape */
+
+position: absolute;
+left: 7.59%;
+right: 7.58%;
+top: 15.83%;
+bottom: 7.7%;
+
+/* Neutral / 800 */
+background: #191D23;
+
+
+/* Content */
+
+position: absolute;
+width: 408.54px;
+height: 147.18px;
+left: 0px;
+top: 176.62px;
+
+
+
+/* Header */
+
+position: absolute;
+width: 342.53px;
+height: 35.68px;
+left: 0px;
+top: 0px;
+
+
+
+/* Subtitle */
+
+position: absolute;
+width: 342.53px;
+height: 16.95px;
+left: 0px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12.4881px;
+line-height: 19px;
+
+/* Neutral / 500 */
+color: #64748B;
+
+
+
+/* Title */
+
+position: absolute;
+width: 342.53px;
+height: 18.73px;
+left: 0px;
+top: 16.95px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 14.2721px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+color: #353535;
+
+
+
+/* Price */
+
+position: absolute;
+width: 56px;
+height: 27px;
+left: 352.34px;
+top: 1.78px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 800;
+font-size: 17.8402px;
+line-height: 27px;
+/* identical to box height */
+text-align: right;
+
+color: #353535;
+
+
+
+/* Get the perfect cut at Artist Galery—expert styling, tailored to you. Look fresh, feel confident! */
+
+position: absolute;
+width: 380.89px;
+height: 41.92px;
+left: 0px;
+top: 46.38px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12.4881px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #64748B;
+
+
+
+/* State Bank Chowk, near postal ground, Yavatmal. */
+
+position: absolute;
+width: 307px;
+height: 19px;
+left: 0px;
+top: 97.23px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12.4881px;
+line-height: 19px;
+/* identical to box height */
+
+color: #353535;
+
+
+
+/* rating */
+
+position: absolute;
+width: 138.77px;
+height: 24.2px;
+left: 0px;
+top: 127.56px;
+
+
+
+/* 4.5 / 5 */
+
+position: absolute;
+width: 40px;
+height: 19px;
+left: 34.79px;
+top: 130.23px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 12.4881px;
+line-height: 19px;
+/* identical to box height */
+
+color: #353535;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 93.77%;
+top: 86.67%;
+bottom: -3.11%;
+
+background: #FFC64A;
+
+
+/* Reviews */
+
+position: absolute;
+width: 54.92px;
+height: 24.08px;
+left: 83.85px;
+top: 127.56px;
+
+
+
+/* Ellipse */
+
+position: absolute;
+width: 24.08px;
+height: 24.08px;
+left: 114.68px;
+top: 127.56px;
+
+background: url(.png);
+
+
+/* Ellipse */
+
+position: absolute;
+width: 24.08px;
+height: 24.08px;
+left: 102.64px;
+top: 127.56px;
+
+background: url(.png);
+
+
+/* Ellipse */
+
+position: absolute;
+width: 24.08px;
+height: 24.08px;
+left: 92.77px;
+top: 127.56px;
+
+background: url(.png);
+
+
+/* Ellipse */
+
+position: absolute;
+width: 24.08px;
+height: 24.08px;
+left: 83.85px;
+top: 127.56px;
+
+background: #BB23DA;
+
+
+/* 128 + */
+
+position: absolute;
+width: 17px;
+height: 10px;
+left: 87.42px;
+top: 134.69px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 6.5414px;
+line-height: 10px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Buttons */
+
+position: absolute;
+width: 408.54px;
+height: 39.25px;
+left: 14.27px;
+top: 359.48px;
+
+
+
+/* Cart */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 57.09px;
+height: 39.25px;
+left: 0px;
+top: 0px;
+
+/* Shades/White */
+background: #FFFFFF;
+/* Neutral / 200 */
+border: 0.892009px solid #D0D5DD;
+border-radius: 3.56803px;
+
+
+/* stash:save-ribbon */
+
+position: absolute;
+width: 21.41px;
+height: 21.41px;
+left: 17.84px;
+top: 8.92px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 12.5%;
+bottom: 14.31%;
+
+border: 1.33801px solid #A0A0A0;
+
+
+/* CTA */
+
+position: absolute;
+width: 340.75px;
+height: 39.25px;
+left: 67.79px;
+top: 0px;
+
+background: linear-gradient(90deg, #AD5389 0%, #BB23DA 100%);
+border-radius: 3.56803px;
+
+
+/* Layout */
+
+position: absolute;
+width: 116.85px;
+height: 17.84px;
+left: 111.95px;
+top: 10.7px;
+
+
+
+/* Label */
+
+position: absolute;
+width: 110px;
+height: 18px;
+left: 3.57px;
+top: calc(50% - 18px/2 + 0.08px);
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 600;
+font-size: 14.2721px;
+line-height: 18px;
+/* identical to box height, or 125% */
+
+color: #FFFFFF;
+
+
+
+/* Product/light */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 437.08px;
+height: 413px;
+left: 2335.57px;
+top: 4px;
+
+/* Shades/White */
+background: #FFFFFF;
+border: 0.892009px solid #A0A0A0;
+border-radius: 3.56803px;
+
+
+/* Container */
+
+position: absolute;
+width: 408.54px;
+height: 323.8px;
+left: 14.27px;
+top: 14.27px;
+
+
+
+/* Image */
+
+position: absolute;
+width: 408.54px;
+height: 165.91px;
+left: 0px;
+top: 0px;
+
+background: url(2148108889);
+border-radius: 3.56803px;
+
+
+/* Like */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 5.35205px;
+gap: 8.92px;
+
+position: absolute;
+width: 28.54px;
+height: 28.54px;
+right: 8.92px;
+top: 8.92px;
+
+/* Shades/White */
+background: #FFFFFF;
+border-radius: 44.6004px;
+
+
+/* Icon */
+
+width: 17.84px;
+height: 17.84px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Shape */
+
+position: absolute;
+left: 7.59%;
+right: 7.58%;
+top: 15.83%;
+bottom: 7.7%;
+
+/* Neutral / 800 */
+background: #191D23;
+
+
+/* Content */
+
+position: absolute;
+width: 408.54px;
+height: 147.18px;
+left: 0px;
+top: 176.62px;
+
+
+
+/* Header */
+
+position: absolute;
+width: 342.53px;
+height: 35.68px;
+left: 0px;
+top: 0px;
+
+
+
+/* Subtitle */
+
+position: absolute;
+width: 342.53px;
+height: 16.95px;
+left: 0px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12.4881px;
+line-height: 19px;
+
+/* Neutral / 500 */
+color: #64748B;
+
+
+
+/* Title */
+
+position: absolute;
+width: 342.53px;
+height: 18.73px;
+left: 0px;
+top: 16.95px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 14.2721px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+color: #353535;
+
+
+
+/* Price */
+
+position: absolute;
+width: 52px;
+height: 27px;
+left: 356.8px;
+top: 1.78px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 800;
+font-size: 17.8402px;
+line-height: 27px;
+/* identical to box height */
+text-align: right;
+
+color: #353535;
+
+
+
+/* Get the perfect cut at Khushboo Salon—expert styling, tailored to you. Look fresh, feel confident! */
+
+position: absolute;
+width: 380.89px;
+height: 41.92px;
+left: 0px;
+top: 46.38px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12.4881px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #64748B;
+
+
+
+/* State Bank Chowk, near postal ground, Yavatmal. */
+
+position: absolute;
+width: 307px;
+height: 19px;
+left: 0px;
+top: 97.23px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12.4881px;
+line-height: 19px;
+/* identical to box height */
+
+color: #353535;
+
+
+
+/* rating */
+
+position: absolute;
+width: 138.77px;
+height: 24.2px;
+left: 0px;
+top: 127.56px;
+
+
+
+/* 4.5 / 5 */
+
+position: absolute;
+width: 40px;
+height: 19px;
+left: 34.79px;
+top: 130.23px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 12.4881px;
+line-height: 19px;
+/* identical to box height */
+
+color: #353535;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 93.77%;
+top: 86.67%;
+bottom: -3.11%;
+
+background: #FFC64A;
+
+
+/* Reviews */
+
+position: absolute;
+width: 54.92px;
+height: 24.08px;
+left: 83.85px;
+top: 127.56px;
+
+
+
+/* Ellipse */
+
+position: absolute;
+width: 24.08px;
+height: 24.08px;
+left: 114.68px;
+top: 127.56px;
+
+background: url(.png);
+
+
+/* Ellipse */
+
+position: absolute;
+width: 24.08px;
+height: 24.08px;
+left: 102.64px;
+top: 127.56px;
+
+background: url(.png);
+
+
+/* Ellipse */
+
+position: absolute;
+width: 24.08px;
+height: 24.08px;
+left: 92.77px;
+top: 127.56px;
+
+background: url(.png);
+
+
+/* Ellipse */
+
+position: absolute;
+width: 24.08px;
+height: 24.08px;
+left: 83.85px;
+top: 127.56px;
+
+background: #BB23DA;
+
+
+/* 128 + */
+
+position: absolute;
+width: 17px;
+height: 10px;
+left: 87.42px;
+top: 134.69px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 6.5414px;
+line-height: 10px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Buttons */
+
+position: absolute;
+width: 408.54px;
+height: 39.25px;
+left: 14.27px;
+top: 359.48px;
+
+
+
+/* Cart */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 57.09px;
+height: 39.25px;
+left: 0px;
+top: 0px;
+
+/* Shades/White */
+background: #FFFFFF;
+/* Neutral / 200 */
+border: 0.892009px solid #D0D5DD;
+border-radius: 3.56803px;
+
+
+/* stash:save-ribbon */
+
+position: absolute;
+width: 21.41px;
+height: 21.41px;
+left: 17.84px;
+top: 8.92px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 12.5%;
+bottom: 14.31%;
+
+border: 1.33801px solid #A0A0A0;
+
+
+/* CTA */
+
+position: absolute;
+width: 340.75px;
+height: 39.25px;
+left: 67.79px;
+top: 0px;
+
+background: linear-gradient(90deg, #AD5389 0%, #BB23DA 100%);
+border-radius: 3.56803px;
+
+
+/* Layout */
+
+position: absolute;
+width: 116.85px;
+height: 17.84px;
+left: 111.95px;
+top: 10.7px;
+
+
+
+/* Label */
+
+position: absolute;
+width: 110px;
+height: 18px;
+left: 3.57px;
+top: calc(50% - 18px/2 + 0.08px);
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 600;
+font-size: 14.2721px;
+line-height: 18px;
+/* identical to box height, or 125% */
+
+color: #FFFFFF;
+
+
+
+/* Product/light */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 437.08px;
+height: 413px;
+left: 1868.49px;
+top: 4px;
+
+/* Shades/White */
+background: #FFFFFF;
+border: 0.892009px solid #A0A0A0;
+border-radius: 3.56803px;
+
+
+/* Container */
+
+position: absolute;
+width: 408.54px;
+height: 323.8px;
+left: 14.27px;
+top: 14.27px;
+
+
+
+/* Image */
+
+position: absolute;
+width: 408.54px;
+height: 165.91px;
+left: 0px;
+top: 0px;
+
+background: url(27180);
+border-radius: 3.56803px;
+
+
+/* Like */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 5.35205px;
+gap: 8.92px;
+
+position: absolute;
+width: 28.54px;
+height: 28.54px;
+right: 8.92px;
+top: 8.92px;
+
+/* Shades/White */
+background: #FFFFFF;
+border-radius: 44.6004px;
+
+
+/* Icon */
+
+width: 17.84px;
+height: 17.84px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Shape */
+
+position: absolute;
+left: 7.59%;
+right: 7.58%;
+top: 15.83%;
+bottom: 7.7%;
+
+/* Neutral / 800 */
+background: #191D23;
+
+
+/* Content */
+
+position: absolute;
+width: 408.54px;
+height: 147.18px;
+left: 0px;
+top: 176.62px;
+
+
+
+/* Header */
+
+position: absolute;
+width: 342.53px;
+height: 35.68px;
+left: 0px;
+top: 0px;
+
+
+
+/* Subtitle */
+
+position: absolute;
+width: 342.53px;
+height: 16.95px;
+left: 0px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12.4881px;
+line-height: 19px;
+
+/* Neutral / 500 */
+color: #64748B;
+
+
+
+/* Title */
+
+position: absolute;
+width: 342.53px;
+height: 18.73px;
+left: 0px;
+top: 16.95px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 14.2721px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+color: #353535;
+
+
+
+/* Price */
+
+position: absolute;
+width: 46px;
+height: 27px;
+left: 362.16px;
+top: 1.78px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 800;
+font-size: 17.8402px;
+line-height: 27px;
+/* identical to box height */
+text-align: right;
+
+color: #353535;
+
+
+
+/* Sharp, stylish, and perfectly groomed—elevate your beard game at Graphio! */
+
+position: absolute;
+width: 380.89px;
+height: 41.92px;
+left: 0px;
+top: 46.38px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12.4881px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #64748B;
+
+
+
+/* State Bank Chowk, near postal ground, Yavatmal. */
+
+position: absolute;
+width: 307px;
+height: 19px;
+left: 0px;
+top: 97.23px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12.4881px;
+line-height: 19px;
+/* identical to box height */
+
+color: #353535;
+
+
+
+/* rating */
+
+position: absolute;
+width: 138.77px;
+height: 24.2px;
+left: 0px;
+top: 127.56px;
+
+
+
+/* 4.3 / 5 */
+
+position: absolute;
+width: 40px;
+height: 19px;
+left: 34.79px;
+top: 130.23px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 12.4881px;
+line-height: 19px;
+/* identical to box height */
+
+color: #353535;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 93.77%;
+top: 86.67%;
+bottom: -3.11%;
+
+background: #FFC64A;
+
+
+/* Reviews */
+
+position: absolute;
+width: 54.92px;
+height: 24.08px;
+left: 83.85px;
+top: 127.56px;
+
+
+
+/* Ellipse */
+
+position: absolute;
+width: 24.08px;
+height: 24.08px;
+left: 114.68px;
+top: 127.56px;
+
+background: url(.png);
+
+
+/* Ellipse */
+
+position: absolute;
+width: 24.08px;
+height: 24.08px;
+left: 102.64px;
+top: 127.56px;
+
+background: url(.png);
+
+
+/* Ellipse */
+
+position: absolute;
+width: 24.08px;
+height: 24.08px;
+left: 92.77px;
+top: 127.56px;
+
+background: url(.png);
+
+
+/* Ellipse */
+
+position: absolute;
+width: 24.08px;
+height: 24.08px;
+left: 83.85px;
+top: 127.56px;
+
+background: #BB23DA;
+
+
+/* 105 + */
+
+position: absolute;
+width: 17px;
+height: 10px;
+left: 87.42px;
+top: 134.69px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 6.5414px;
+line-height: 10px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Buttons */
+
+position: absolute;
+width: 408.54px;
+height: 39.25px;
+left: 14.27px;
+top: 359.48px;
+
+
+
+/* Cart */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 57.09px;
+height: 39.25px;
+left: 0px;
+top: 0px;
+
+/* Shades/White */
+background: #FFFFFF;
+/* Neutral / 200 */
+border: 0.892009px solid #D0D5DD;
+border-radius: 3.56803px;
+
+
+/* stash:save-ribbon */
+
+position: absolute;
+width: 21.41px;
+height: 21.41px;
+left: 17.84px;
+top: 8.92px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 12.5%;
+bottom: 14.31%;
+
+border: 1.33801px solid #A0A0A0;
+
+
+/* CTA */
+
+position: absolute;
+width: 340.75px;
+height: 39.25px;
+left: 67.79px;
+top: 0px;
+
+background: linear-gradient(90deg, #AD5389 0%, #BB23DA 100%);
+border-radius: 3.56803px;
+
+
+/* Layout */
+
+position: absolute;
+width: 116.85px;
+height: 17.84px;
+left: 111.95px;
+top: 10.7px;
+
+
+
+/* Label */
+
+position: absolute;
+width: 110px;
+height: 18px;
+left: 3.57px;
+top: calc(50% - 18px/2 + 0.08px);
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 600;
+font-size: 14.2721px;
+line-height: 18px;
+/* identical to box height, or 125% */
+
+color: #FFFFFF;
+
+
+
+/* Group 29 */
+
+position: absolute;
+left: 0%;
+right: 95.44%;
+top: 41.93%;
+bottom: 41.21%;
+
+
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 16px 64px;
+gap: 10px;
+
+position: absolute;
+left: 0%;
+right: 95.44%;
+top: 41.93%;
+bottom: 41.21%;
+
+background: #EBEBEB;
+border-radius: 8px;
+
+
+/* Get Listed */
+
+margin: 0 auto;
+display: none;
+width: 125px;
+height: 38px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 38px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 2.93%;
+right: 95.77%;
+top: 52.05%;
+bottom: 44.58%;
+
+border: 3px solid #353535;
+transform: rotate(-180deg);
+
+
+/* Group 30 */
+
+position: absolute;
+left: 95.44%;
+right: 0%;
+top: 41.93%;
+bottom: 41.21%;
+
+
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 16px 64px;
+gap: 10px;
+
+position: absolute;
+left: 95.44%;
+right: 0%;
+top: 41.93%;
+bottom: 41.21%;
+
+background: #EBEBEB;
+border-radius: 8px;
+
+
+/* Get Listed */
+
+margin: 0 auto;
+display: none;
+width: 125px;
+height: 38px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 38px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 97.07%;
+right: 1.63%;
+top: 52.05%;
+bottom: 44.58%;
+
+border: 3px solid #353535;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Popular services at salonX */
+
+position: absolute;
+width: 645px;
+height: 60px;
+left: calc(50% - 645px/2 + 0.5px);
+top: 1419px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 60px;
+/* identical to box height, or 125% */
+text-align: center;
+
+color: #353535;
+
+
+
+/* Top rated salons at salonX */
+
+position: absolute;
+width: 649px;
+height: 60px;
+left: calc(50% - 649px/2 + 0.5px);
+top: 2248px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 60px;
+/* identical to box height, or 125% */
+text-align: center;
+
+color: #353535;
+
+
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 144px;
+gap: 10px;
+
+position: absolute;
+width: 413px;
+height: 70px;
+left: calc(50% - 413px/2 + 0.5px);
+top: 2838px;
+
+background: linear-gradient(270deg, #BB23DA 0%, #AD5389 100%);
+border-radius: 8px;
+
+
+/* Get Listed */
+
+width: 125px;
+height: 38px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 38px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Happy customers */
+
+position: absolute;
+width: 1540px;
+height: 655px;
+left: calc(50% - 1540px/2);
+top: 3992px;
+
+
+
+/* Our happy clients says about us */
+
+position: absolute;
+width: 784px;
+height: 60px;
+left: calc(50% - 784px/2);
+top: 4041px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 60px;
+/* identical to box height, or 125% */
+text-align: center;
+
+color: #353535;
+
+
+
+/* 240 people have said how good Salon X */
+
+position: absolute;
+width: 280px;
+height: 21px;
+left: 724px;
+top: 3992px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+color: #353535;
+
+
+
+/* Gradient */
+
+position: absolute;
+width: 1106.98px;
+height: 466px;
+left: 311px;
+top: 4181px;
+
+
+
+/* Frame 4 */
+
+position: absolute;
+width: 1106.98px;
+height: 466px;
+left: 311px;
+top: 4181px;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 498.23px;
+height: 474.29px;
+left: 420.87px;
+top: -12.89px;
+
+background: linear-gradient(90deg, #BB23DA 40.66%, #FFFFFF 100%);
+filter: blur(158.725px);
+
+
+/* Vector */
+
+position: absolute;
+width: 393.25px;
+height: 374.83px;
+left: 27.63px;
+top: 224.71px;
+
+background: linear-gradient(273.62deg, #9747FF 20.36%, #FFFFFF 59.48%);
+filter: blur(150.069px);
+
+
+/* Vector */
+
+position: absolute;
+width: 393.25px;
+height: 374.83px;
+left: -44.21px;
+top: -85.65px;
+
+background: linear-gradient(284.71deg, #AD5389 32.62%, #FFFFFF 51.53%);
+filter: blur(150.069px);
+
+
+/* Review cards */
+
+position: absolute;
+width: 1540px;
+height: 345px;
+left: calc(50% - 1540px/2);
+top: 4242px;
+
+
+
+/* Frame 5 */
+
+position: absolute;
+left: 7.1%;
+right: 6.84%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Group 28 */
+
+position: absolute;
+width: 2699.8px;
+height: 343.38px;
+left: 0px;
+top: 1px;
+
+
+
+/* Testimonial 1 */
+
+position: absolute;
+width: 403.47px;
+height: 343.38px;
+left: 0px;
+top: 1px;
+
+
+
+/* Rectangle 31 */
+
+position: absolute;
+width: 403.47px;
+height: 343.38px;
+left: 0px;
+top: 1px;
+
+background: #FFFFFF;
+box-shadow: -3.43377px 3.43377px 8.58442px 1.71688px rgba(0, 0, 0, 0.1);
+border-radius: 3.43377px;
+
+
+/* Text */
+
+position: absolute;
+width: 351.96px;
+height: 262.08px;
+left: 25.75px;
+top: 38.76px;
+
+
+
+/* Stars */
+
+position: absolute;
+width: 141.61px;
+height: 23.29px;
+left: 25.82px;
+top: 38.76px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 1.95%;
+right: 96.2%;
+top: 11.23%;
+bottom: 82.02%;
+
+background: #FFC64A;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.16%;
+right: 93.99%;
+top: 11.23%;
+bottom: 82.02%;
+
+background: #FFC64A;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.36%;
+right: 91.78%;
+top: 11.23%;
+bottom: 82.02%;
+
+background: #FFC64A;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.57%;
+right: 89.58%;
+top: 11.23%;
+bottom: 82.02%;
+
+background: #FFC64A;
+
+
+/* Vector */
+
+position: absolute;
+left: 10.78%;
+right: 87.37%;
+top: 11.23%;
+bottom: 82.02%;
+
+background: #FFC64A;
+
+
+/* Super easy to book appointments! The app is fast, user-friendly, and keeps everything organized. Highly recommend! */
+
+position: absolute;
+width: 351.96px;
+height: 104px;
+left: 25.75px;
+top: 104.01px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 17.1688px;
+line-height: 26px;
+/* or 150% */
+
+color: #555555;
+
+
+
+/* Website User */
+
+position: absolute;
+width: 101px;
+height: 26px;
+left: 95.29px;
+top: 274.84px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15.4519px;
+line-height: 26px;
+/* identical to box height, or 167% */
+
+color: #555555;
+
+
+
+/* Kalpesh Mankar */
+
+position: absolute;
+width: 145px;
+height: 26px;
+left: 95.29px;
+top: 249.09px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 17.1688px;
+line-height: 26px;
+/* identical to box height, or 150% */
+
+color: #353535;
+
+
+
+/* Ellipse */
+
+position: absolute;
+width: 47.21px;
+height: 47.21px;
+left: 25.75px;
+top: 253.38px;
+
+background: url(.png);
+
+
+/* Testimonial 2 */
+
+position: absolute;
+width: 403.47px;
+height: 343.38px;
+left: 918.53px;
+top: 1px;
+
+
+
+/* Rectangle 31 */
+
+position: absolute;
+width: 403.47px;
+height: 343.38px;
+left: 918.53px;
+top: 1px;
+
+background: #FFFFFF;
+box-shadow: -3.43px 3.43377px 8.58442px 1.71688px rgba(0, 0, 0, 0.1);
+border-radius: 3.43377px;
+
+
+/* Text */
+
+position: absolute;
+width: 351.96px;
+height: 262.08px;
+left: 944.29px;
+top: 38.76px;
+
+
+
+/* Stars */
+
+position: absolute;
+width: 141.61px;
+height: 23.29px;
+left: 946.75px;
+top: 38.76px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 71.43%;
+right: 26.72%;
+top: 11.23%;
+bottom: 82.02%;
+
+background: #FFC64A;
+
+
+/* Vector */
+
+position: absolute;
+left: 73.64%;
+right: 24.51%;
+top: 11.23%;
+bottom: 82.02%;
+
+background: #FFC64A;
+
+
+/* Vector */
+
+position: absolute;
+left: 75.84%;
+right: 22.3%;
+top: 11.23%;
+bottom: 82.02%;
+
+background: #FFC64A;
+
+
+/* Vector */
+
+position: absolute;
+left: 78.05%;
+right: 20.1%;
+top: 11.23%;
+bottom: 82.02%;
+
+background: #FFC64A;
+
+
+/* Vector */
+
+position: absolute;
+left: 80.26%;
+right: 17.89%;
+top: 11.23%;
+bottom: 82.02%;
+
+background: #FFC64A;
+
+
+/* Super easy to book appointments! The app is fast, user-friendly, and keeps everything organized. Highly recommend! */
+
+position: absolute;
+width: 351.96px;
+height: 104px;
+left: 944.29px;
+top: 104.01px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 17.1688px;
+line-height: 26px;
+/* or 150% */
+
+color: #555555;
+
+
+
+/* Website User */
+
+position: absolute;
+width: 101px;
+height: 26px;
+left: 1013.82px;
+top: 274.84px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15.4519px;
+line-height: 26px;
+/* identical to box height, or 167% */
+
+color: #555555;
+
+
+
+/* Prashik Moon */
+
+position: absolute;
+width: 120px;
+height: 26px;
+left: 1013.82px;
+top: 249.09px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 17.1688px;
+line-height: 26px;
+/* identical to box height, or 150% */
+
+color: #353535;
+
+
+
+/* Ellipse */
+
+position: absolute;
+width: 47.21px;
+height: 47.21px;
+left: 944.29px;
+top: 253.38px;
+
+background: url();
+
+
+/* Testimonial 1 */
+
+position: absolute;
+width: 403.47px;
+height: 343.38px;
+left: 459.27px;
+top: 1px;
+
+
+
+/* Rectangle 31 */
+
+position: absolute;
+width: 403.47px;
+height: 343.38px;
+left: 459.27px;
+top: 1px;
+
+background: #FFFFFF;
+box-shadow: -3.43377px 3.43377px 8.58442px 1.71688px rgba(0, 0, 0, 0.1);
+border-radius: 3.43377px;
+
+
+/* Text */
+
+position: absolute;
+width: 351.96px;
+height: 262.08px;
+left: 485.02px;
+top: 38.76px;
+
+
+
+/* Stars */
+
+position: absolute;
+width: 141.61px;
+height: 23.29px;
+left: 486.28px;
+top: 38.76px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 36.69%;
+right: 61.46%;
+top: 11.23%;
+bottom: 82.02%;
+
+background: #FFC64A;
+
+
+/* Vector */
+
+position: absolute;
+left: 38.9%;
+right: 59.25%;
+top: 11.23%;
+bottom: 82.02%;
+
+background: #FFC64A;
+
+
+/* Vector */
+
+position: absolute;
+left: 41.1%;
+right: 57.04%;
+top: 11.23%;
+bottom: 82.02%;
+
+background: #FFC64A;
+
+
+/* Vector */
+
+position: absolute;
+left: 43.31%;
+right: 54.84%;
+top: 11.23%;
+bottom: 82.02%;
+
+background: #FFC64A;
+
+
+/* Vector */
+
+position: absolute;
+left: 45.52%;
+right: 52.63%;
+top: 11.23%;
+bottom: 82.02%;
+
+background: #FFC64A;
+
+
+/* Super easy to book appointments! The app is fast, user-friendly, and keeps everything organized. Highly recommend! */
+
+position: absolute;
+width: 351.96px;
+height: 104px;
+left: 485.02px;
+top: 104.01px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 17.1688px;
+line-height: 26px;
+/* or 150% */
+
+color: #555555;
+
+
+
+/* Website User */
+
+position: absolute;
+width: 101px;
+height: 26px;
+left: 554.55px;
+top: 274.84px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15.4519px;
+line-height: 26px;
+/* identical to box height, or 167% */
+
+color: #555555;
+
+
+
+/* Madhur Wankar */
+
+position: absolute;
+width: 145px;
+height: 26px;
+left: 554.55px;
+top: 249.09px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 17.1688px;
+line-height: 26px;
+/* identical to box height, or 150% */
+
+color: #353535;
+
+
+
+/* Ellipse */
+
+position: absolute;
+width: 47.21px;
+height: 47.21px;
+left: 485.02px;
+top: 253.38px;
+
+background: url(.png);
+
+
+/* Testimonial 1 */
+
+position: absolute;
+width: 403.47px;
+height: 343.38px;
+left: 1377.8px;
+top: 1px;
+
+
+
+/* Rectangle 31 */
+
+position: absolute;
+width: 403.47px;
+height: 343.38px;
+left: 1377.8px;
+top: 1px;
+
+background: #FFFFFF;
+box-shadow: -3.43377px 3.43377px 8.58442px 1.71688px rgba(0, 0, 0, 0.1);
+border-radius: 3.43377px;
+
+
+/* Text */
+
+position: absolute;
+width: 351.96px;
+height: 262.08px;
+left: 1403.55px;
+top: 38.76px;
+
+
+
+/* Stars */
+
+position: absolute;
+width: 141.61px;
+height: 23.29px;
+left: 1407.21px;
+top: 38.76px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 106.17%;
+right: -8.02%;
+top: 11.24%;
+bottom: 82.02%;
+
+background: #FFC64A;
+
+
+/* Vector */
+
+position: absolute;
+left: 108.38%;
+right: -10.23%;
+top: 11.24%;
+bottom: 82.02%;
+
+background: #FFC64A;
+
+
+/* Vector */
+
+position: absolute;
+left: 110.58%;
+right: -12.44%;
+top: 11.24%;
+bottom: 82.02%;
+
+background: #FFC64A;
+
+
+/* Vector */
+
+position: absolute;
+left: 112.79%;
+right: -14.65%;
+top: 11.24%;
+bottom: 82.02%;
+
+background: #FFC64A;
+
+
+/* Vector */
+
+position: absolute;
+left: 115%;
+right: -16.85%;
+top: 11.24%;
+bottom: 82.02%;
+
+background: #FFC64A;
+
+
+/* Super easy to book appointments! The app is fast, user-friendly, and keeps everything organized. Highly recommend! */
+
+position: absolute;
+width: 351.96px;
+height: 104px;
+left: 1403.55px;
+top: 104.01px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 17.1688px;
+line-height: 26px;
+/* or 150% */
+
+color: #555555;
+
+
+
+/* Website User */
+
+position: absolute;
+width: 101px;
+height: 26px;
+left: 1473.09px;
+top: 274.84px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15.4519px;
+line-height: 26px;
+/* identical to box height, or 167% */
+
+color: #555555;
+
+
+
+/* Kalpesh Mankar */
+
+position: absolute;
+width: 145px;
+height: 26px;
+left: 1473.09px;
+top: 249.09px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 17.1688px;
+line-height: 26px;
+/* identical to box height, or 150% */
+
+color: #353535;
+
+
+
+/* Ellipse */
+
+position: absolute;
+width: 47.21px;
+height: 47.21px;
+left: 1403.55px;
+top: 253.38px;
+
+background: url(.png);
+
+
+/* Testimonial 2 */
+
+position: absolute;
+width: 403.47px;
+height: 343.38px;
+left: 2296.33px;
+top: 1px;
+
+
+
+/* Rectangle 31 */
+
+position: absolute;
+width: 403.47px;
+height: 343.38px;
+left: 2296.33px;
+top: 1px;
+
+background: #FFFFFF;
+box-shadow: 3.43377px 3.43377px 8.58442px 1.71688px rgba(0, 0, 0, 0.1);
+border-radius: 3.43377px;
+
+
+/* Text */
+
+position: absolute;
+width: 351.96px;
+height: 262.08px;
+left: 2322.08px;
+top: 38.76px;
+
+
+
+/* Stars */
+
+position: absolute;
+width: 141.61px;
+height: 23.29px;
+left: 2328.13px;
+top: 38.76px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 175.65%;
+right: -77.5%;
+top: 11.24%;
+bottom: 82.02%;
+
+background: #FFC64A;
+
+
+/* Vector */
+
+position: absolute;
+left: 177.86%;
+right: -79.71%;
+top: 11.24%;
+bottom: 82.02%;
+
+background: #FFC64A;
+
+
+/* Vector */
+
+position: absolute;
+left: 180.06%;
+right: -81.92%;
+top: 11.24%;
+bottom: 82.02%;
+
+background: #FFC64A;
+
+
+/* Vector */
+
+position: absolute;
+left: 182.27%;
+right: -84.13%;
+top: 11.24%;
+bottom: 82.02%;
+
+background: #FFC64A;
+
+
+/* Vector */
+
+position: absolute;
+left: 184.48%;
+right: -86.33%;
+top: 11.24%;
+bottom: 82.02%;
+
+background: #FFC64A;
+
+
+/* Super easy to book appointments! The app is fast, user-friendly, and keeps everything organized. Highly recommend! */
+
+position: absolute;
+width: 351.96px;
+height: 104px;
+left: 2322.08px;
+top: 104.01px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 17.1688px;
+line-height: 26px;
+/* or 150% */
+
+color: #555555;
+
+
+
+/* Website User */
+
+position: absolute;
+width: 101px;
+height: 26px;
+left: 2391.62px;
+top: 274.84px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15.4519px;
+line-height: 26px;
+/* identical to box height, or 167% */
+
+color: #555555;
+
+
+
+/* Prashik Moon */
+
+position: absolute;
+width: 120px;
+height: 26px;
+left: 2391.62px;
+top: 249.09px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 17.1688px;
+line-height: 26px;
+/* identical to box height, or 150% */
+
+color: #353535;
+
+
+
+/* Ellipse */
+
+position: absolute;
+width: 47.21px;
+height: 47.21px;
+left: 2322.08px;
+top: 253.38px;
+
+background: url();
+
+
+/* Testimonial 1 */
+
+position: absolute;
+width: 403.47px;
+height: 343.38px;
+left: 1837.07px;
+top: 1px;
+
+
+
+/* Rectangle 31 */
+
+position: absolute;
+width: 403.47px;
+height: 343.38px;
+left: 1837.07px;
+top: 1px;
+
+background: #FFFFFF;
+box-shadow: -3.43377px 3.43377px 8.58442px 1.71688px rgba(0, 0, 0, 0.1);
+border-radius: 3.43377px;
+
+
+/* Text */
+
+position: absolute;
+width: 351.96px;
+height: 262.08px;
+left: 1862.82px;
+top: 38.76px;
+
+
+
+/* Stars */
+
+position: absolute;
+width: 141.61px;
+height: 23.29px;
+left: 1867.67px;
+top: 38.76px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 140.91%;
+right: -42.76%;
+top: 11.23%;
+bottom: 82.02%;
+
+background: #FFC64A;
+
+
+/* Vector */
+
+position: absolute;
+left: 143.12%;
+right: -44.97%;
+top: 11.23%;
+bottom: 82.02%;
+
+background: #FFC64A;
+
+
+/* Vector */
+
+position: absolute;
+left: 145.32%;
+right: -47.18%;
+top: 11.23%;
+bottom: 82.02%;
+
+background: #FFC64A;
+
+
+/* Vector */
+
+position: absolute;
+left: 147.53%;
+right: -49.39%;
+top: 11.23%;
+bottom: 82.02%;
+
+background: #FFC64A;
+
+
+/* Vector */
+
+position: absolute;
+left: 149.74%;
+right: -51.59%;
+top: 11.23%;
+bottom: 82.02%;
+
+background: #FFC64A;
+
+
+/* Super easy to book appointments! The app is fast, user-friendly, and keeps everything organized. Highly recommend! */
+
+position: absolute;
+width: 351.96px;
+height: 104px;
+left: 1862.82px;
+top: 104.01px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 17.1688px;
+line-height: 26px;
+/* or 150% */
+
+color: #555555;
+
+
+
+/* Website User */
+
+position: absolute;
+width: 101px;
+height: 26px;
+left: 1932.35px;
+top: 274.84px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15.4519px;
+line-height: 26px;
+/* identical to box height, or 167% */
+
+color: #555555;
+
+
+
+/* Madhur Wankar */
+
+position: absolute;
+width: 145px;
+height: 26px;
+left: 1932.35px;
+top: 249.09px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 17.1688px;
+line-height: 26px;
+/* identical to box height, or 150% */
+
+color: #353535;
+
+
+
+/* Ellipse */
+
+position: absolute;
+width: 47.21px;
+height: 47.21px;
+left: 1862.82px;
+top: 253.38px;
+
+background: url(.png);
+
+
+/* Group 30 */
+
+position: absolute;
+left: 95.44%;
+right: 0%;
+top: 39.99%;
+bottom: 39.73%;
+
+
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 16px 64px;
+gap: 10px;
+
+position: absolute;
+left: 95.44%;
+right: 0%;
+top: 39.99%;
+bottom: 39.73%;
+
+background: #EBEBEB;
+border-radius: 8px;
+
+
+/* Get Listed */
+
+margin: 0 auto;
+display: none;
+width: 125px;
+height: 38px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 38px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 97.07%;
+right: 1.63%;
+top: 52.16%;
+bottom: 43.78%;
+
+border: 3px solid #353535;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Group 29 */
+
+position: absolute;
+left: 0%;
+right: 95.44%;
+top: 39.99%;
+bottom: 39.73%;
+
+
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 16px 64px;
+gap: 10px;
+
+position: absolute;
+left: 0%;
+right: 95.44%;
+top: 39.99%;
+bottom: 39.73%;
+
+background: #EBEBEB;
+border-radius: 8px;
+
+
+/* Get Listed */
+
+margin: 0 auto;
+display: none;
+width: 125px;
+height: 38px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 38px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 2.93%;
+right: 95.77%;
+top: 52.16%;
+bottom: 43.78%;
+
+border: 3px solid #353535;
+transform: rotate(-180deg);
+
+
+/* Footer */
+
+position: absolute;
+width: 1728px;
+height: 646.63px;
+left: calc(50% - 1728px/2);
+top: 4767px;
+
+
+
+/* Footer */
+
+position: absolute;
+width: 1728px;
+height: 506.29px;
+left: 0px;
+top: 4907.34px;
+
+
+
+/* Rectangle */
+
+position: absolute;
+width: 1728px;
+height: 506.29px;
+left: 0px;
+top: 4907.34px;
+
+background: #2C0035;
+border-radius: 0px;
+
+
+/* Copy right */
+
+position: absolute;
+width: 1467.88px;
+height: 45.43px;
+left: 130.6px;
+top: 5348.86px;
+
+
+
+/* Copyright © WDC WEB , 2022 */
+
+position: absolute;
+width: 223.83px;
+height: 26px;
+left: 130.6px;
+top: 5368.29px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 17.2721px;
+line-height: 26px;
+/* identical to box height, or 150% */
+
+color: #FFFFFF;
+
+
+
+/* Copyright Privacy Policy Terms & Conditions */
+
+position: absolute;
+width: 393.71px;
+height: 26px;
+left: 1204.53px;
+top: 5368.29px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 17.2721px;
+line-height: 26px;
+/* identical to box height, or 150% */
+
+color: #FFFFFF;
+
+
+
+/* Line 2 */
+
+position: absolute;
+width: 1467.88px;
+height: 0px;
+left: 130.6px;
+top: 5348.86px;
+
+border: 1.07951px solid #FFFFFF;
+
+
+/* All */
+
+position: absolute;
+width: 1376.83px;
+height: 278.96px;
+left: 175.93px;
+top: 5048.63px;
+
+
+
+/* Quick links */
+
+position: absolute;
+width: 112.92px;
+height: 219.63px;
+left: 811px;
+top: 5048.63px;
+
+
+
+/* Quicklinks */
+
+position: absolute;
+width: 112.92px;
+height: 22px;
+left: 811px;
+top: 5048.63px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 22px;
+/* identical to box height, or 108% */
+letter-spacing: 0.194312px;
+
+color: #FFFFFF;
+
+
+
+/* Home */
+
+position: absolute;
+width: 51.96px;
+height: 21px;
+left: 811px;
+top: 5104.76px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 17.2721px;
+line-height: 20px;
+/* identical to box height, or 117% */
+
+color: #FFFFFF;
+
+
+
+/* Salons */
+
+position: absolute;
+width: 56.96px;
+height: 21px;
+left: 811px;
+top: 5140.38px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 17.2721px;
+line-height: 20px;
+/* identical to box height, or 117% */
+
+color: #FFFFFF;
+
+
+
+/* Our Services */
+
+position: absolute;
+width: 106.92px;
+height: 21px;
+left: 811px;
+top: 5176.01px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 17.2721px;
+line-height: 20px;
+/* identical to box height, or 117% */
+
+color: #FFFFFF;
+
+
+
+/* About Us */
+
+position: absolute;
+width: 76.94px;
+height: 21px;
+left: 811px;
+top: 5211.63px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 17.2721px;
+line-height: 20px;
+/* identical to box height, or 117% */
+
+color: #FFFFFF;
+
+
+
+/* Help & FAQ */
+
+position: absolute;
+width: 93.93px;
+height: 21px;
+left: 811px;
+top: 5247.26px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 17.2721px;
+line-height: 20px;
+/* identical to box height, or 117% */
+
+color: #FFFFFF;
+
+
+
+/* Sign Up */
+
+position: absolute;
+width: 377.76px;
+height: 184.6px;
+left: 1175px;
+top: 5048.63px;
+
+
+
+/* Sign Up */
+
+position: absolute;
+width: 83.94px;
+height: 22px;
+left: 1175px;
+top: 5048.63px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 22px;
+/* identical to box height, or 108% */
+letter-spacing: 0.194312px;
+
+color: #FFFFFF;
+
+
+
+/* Sign up for Alerts, Special Offers, Discounts and Updates. */
+
+position: absolute;
+width: 358.34px;
+height: 48px;
+left: 1175px;
+top: 5102.6px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 17.2721px;
+line-height: 24px;
+/* or 137% */
+
+color: #FFFFFF;
+
+
+
+/* Enter Email */
+
+position: absolute;
+width: 377.76px;
+height: 48.58px;
+left: 1175px;
+top: 5184.64px;
+
+
+
+/* Rectangle */
+
+position: absolute;
+width: 377.76px;
+height: 48.58px;
+left: 1175px;
+top: 5184.64px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 0px #FFFFFF;
+border-radius: 8.09632px;
+
+
+/* Rectangle */
+
+position: absolute;
+width: 51.81px;
+height: 48.58px;
+left: 1500.96px;
+top: 5184.64px;
+
+background: #BB23DA;
+border-radius: 0px 8.09632px 8.09632px 0px;
+
+
+/* Enter Your E-mail */
+
+position: absolute;
+width: 145.89px;
+height: 24px;
+left: 1191.19px;
+top: 5197.6px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 17.2721px;
+line-height: 24px;
+/* identical to box height, or 137% */
+
+color: #939393;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 87.8%;
+right: 10.95%;
+top: 96.08%;
+bottom: 3.64%;
+
+border: 2.15902px solid #FFFFFF;
+
+
+/* Office */
+
+position: absolute;
+width: 384.24px;
+height: 278.96px;
+left: 175.93px;
+top: 5048.63px;
+
+
+
+/* WDC WEB  */
+
+position: absolute;
+width: 62.95px;
+height: 29px;
+left: 175.93px;
+top: 5157.63px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 17.2721px;
+line-height: 28px;
+/* or 163% */
+
+color: #FFFFFF;
+
+
+
+/* Head office : */
+
+position: absolute;
+width: 135.9px;
+height: 33px;
+left: 175.93px;
+top: 5048.63px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 32px;
+/* identical to box height, or 162% */
+
+color: #FFFFFF;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 10.18%;
+right: 88.69%;
+top: 96.13%;
+bottom: 3.45%;
+
+background: #FFFFFF;
+
+
+/* Ambika Nagar, Yavatmal, Maharashtra 445001 */
+
+position: absolute;
+width: 344.3px;
+height: 57px;
+left: 215.87px;
+top: 5199.27px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 17.2721px;
+line-height: 28px;
+/* or 163% */
+
+color: #FFFFFF;
+
+
+
+/* carbon:phone-voice-filled */
+
+position: absolute;
+width: 19.43px;
+height: 19.43px;
+left: 175.93px;
+top: 5267.28px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 59.37%;
+right: 25%;
+top: 25%;
+bottom: 59.38%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* +91-9876543210 */
+
+position: absolute;
+width: 134.9px;
+height: 29px;
+left: 215.87px;
+top: 5262.96px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 17.2721px;
+line-height: 28px;
+/* or 163% */
+
+color: #FFFFFF;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 10.24%;
+right: 88.57%;
+top: 97.99%;
+bottom: 1.73%;
+
+background: #FFFFFF;
+
+
+/* info@wdc webintl.com */
+
+position: absolute;
+width: 231.83px;
+height: 29px;
+left: 215.87px;
+top: 5298.59px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 17.2721px;
+line-height: 28px;
+/* or 163% */
+
+color: #FFFFFF;
+
+
+
+/* Black Orange Modern Minimalist Professional Business Pet Grooming Logo (3) 1 */
+
+position: absolute;
+width: 113.93px;
+height: 55px;
+left: 176px;
+top: 5087px;
+
+background: url(Black Orange Modern Minimalist Professional Business Pet Grooming Logo (3).png);
+
+
+/* blue part */
+
+position: absolute;
+width: 1467.88px;
+height: 236.41px;
+left: 130.6px;
+top: 4767px;
+
+
+
+/* IMAGE */
+
+position: absolute;
+width: 1467.88px;
+height: 236.41px;
+left: 1598.48px;
+top: 4767px;
+
+background: #BB23DA;
+border-radius: 0px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Text */
+
+position: absolute;
+width: 1128.93px;
+height: 125.77px;
+left: 300.05px;
+top: 4823.13px;
+
+
+
+/* Group 24 */
+
+position: absolute;
+width: 568.8px;
+height: 125.77px;
+left: 300.05px;
+top: 4823.13px;
+
+
+
+/* Register Your Salon At Salon X */
+
+position: absolute;
+width: 558.58px;
+height: 48px;
+left: 300.05px;
+top: 4823.13px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 36.7033px;
+line-height: 47px;
+/* identical to box height, or 129% */
+
+color: #FFFFFF;
+
+
+
+/* Register as an IT reseller and start a new shopping experience with WDC WEB Distribution. */
+
+position: absolute;
+width: 568.8px;
+height: 61px;
+left: 300.05px;
+top: 4887.9px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 19.4312px;
+line-height: 30px;
+/* or 156% */
+
+color: #FFFFFF;
+
+
+
+/* Component 15 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: baseline;
+padding: 17.2721px 51.8164px;
+gap: 10.8px;
+
+position: absolute;
+width: 199.63px;
+height: 71.54px;
+left: 1229.35px;
+top: 4850.12px;
+
+background: #FFFFFF;
+border-radius: 8.63607px;
+
+
+/* Get In Touch */
+
+width: 96px;
+height: 37px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 19.4312px;
+line-height: 37px;
+/* identical to box height, or 189% */
+text-transform: capitalize;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Hero */
+
+position: absolute;
+width: 1728px;
+height: 973px;
+left: 0px;
+top: 146px;
+
+background: #FCEBFF;
+
+
+/* Gradient Home page */
+
+position: absolute;
+width: 1178.9px;
+height: 840.01px;
+left: 638px;
+top: -39px;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 315.35px;
+height: 300.01px;
+left: 638px;
+top: 501px;
+
+background: rgba(187, 35, 218, 0.7);
+filter: blur(127.769px);
+
+
+/* Vector */
+
+position: absolute;
+width: 322.9px;
+height: 307.19px;
+left: 1494px;
+top: -39px;
+
+background: rgba(173, 83, 137, 0.7);
+filter: blur(61.0196px);
+
+
+/* scroll down */
+
+position: absolute;
+width: 104px;
+height: 113px;
+left: calc(50% - 104px/2);
+top: 832px;
+
+
+
+/* Scroll down */
+
+position: absolute;
+width: 104px;
+height: 27px;
+left: calc(50% - 104px/2);
+top: 885px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 50.41%;
+right: 48.44%;
+top: 95.07%;
+bottom: 3.49%;
+
+border: 3px solid #000000;
+transform: rotate(90deg);
+
+
+/* Group */
+
+position: absolute;
+width: 26.67px;
+left: calc(50% - 26.67px/2 + 0.33px);
+top: 85.51%;
+bottom: 10.38%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 50.02%;
+right: 49.98%;
+top: 86.42%;
+bottom: 12.66%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 49.25%;
+right: 49.21%;
+top: 85.51%;
+bottom: 10.38%;
+
+
+
+/* Carousel 2 */
+
+position: absolute;
+width: 916px;
+height: 562px;
+left: 718px;
+top: 142px;
+
+filter: drop-shadow(0px 4px 10px rgba(0, 0, 0, 0.25));
+border-radius: 16px;
+
+
+/* Imgs */
+
+position: absolute;
+width: 2848px;
+height: 562px;
+left: 0px;
+top: 0px;
+
+
+
+/* Rectangle 32 */
+
+position: absolute;
+width: 916px;
+height: 562px;
+left: 0px;
+top: 0px;
+
+background: url(man-barbershop-salon-doing-haircut-beard-trim.jpg);
+box-shadow: 0px 4px 10px 2px rgba(0, 0, 0, 0.25);
+border-radius: 16px;
+
+
+/* Rectangle 33 */
+
+position: absolute;
+width: 916px;
+height: 562px;
+left: 966px;
+top: 0px;
+
+background: url(woman-receiving-beauty-treatment-skin-care);
+box-shadow: 0px 4px 10px 2px rgba(0, 0, 0, 0.25);
+border-radius: 16px;
+
+
+/* Rectangle 34 */
+
+position: absolute;
+width: 916px;
+height: 562px;
+left: 1932px;
+top: 0px;
+
+background: url(adult-barber-washing-old-man-hair-backwash);
+box-shadow: 0px 4px 10px 2px rgba(0, 0, 0, 0.25);
+border-radius: 16px;
+
+
+/* text */
+
+position: absolute;
+width: 600px;
+height: 310.87px;
+left: 94px;
+top: 268px;
+
+
+
+/* Heading */
+
+position: absolute;
+width: 600px;
+height: 231.95px;
+left: 94px;
+top: 268px;
+
+
+
+/* Group 25 */
+
+position: absolute;
+width: 724.83px;
+height: 688.36px;
+left: 0px;
+top: 0px;
+
+
+
+/* 1 */
+
+position: absolute;
+width: 595.97px;
+height: 232.52px;
+left: 0px;
+top: 0px;
+
+
+
+/* Discover a world of beauty services tailored to your preferences and schedule, all in one place. */
+
+position: absolute;
+width: 595.97px;
+height: 65px;
+left: 0px;
+top: 167.52px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20.1342px;
+line-height: 32px;
+/* or 160% */
+
+color: #6D6D6D;
+
+
+
+/* Your One-Stop Solution for Effortless Salon Appointments and Beauty Services. */
+
+position: absolute;
+width: 595.97px;
+height: 145px;
+left: 0px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 38.6577px;
+line-height: 48px;
+/* or 125% */
+
+color: #353535;
+
+
+
+/* 2 */
+
+position: absolute;
+width: 724.83px;
+height: 184.19px;
+left: 0px;
+top: 272.21px;
+
+
+
+/* Say goodbye to long queues and hello to instant appointments that fit your busy lifestyle. */
+
+position: absolute;
+width: 724.83px;
+height: 65px;
+left: 0px;
+top: 391.41px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20.1342px;
+line-height: 32px;
+/* or 160% */
+
+color: #6D6D6D;
+
+
+
+/* Your Beauty, Your Schedule, Making Every Appointment Effortless. */
+
+position: absolute;
+width: 724.83px;
+height: 97px;
+left: 0px;
+top: 272.21px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 38.6577px;
+line-height: 48px;
+/* or 125% */
+
+color: #353535;
+
+
+
+/* 3 */
+
+position: absolute;
+width: 724.83px;
+height: 184.19px;
+left: 0px;
+top: 504.16px;
+
+
+
+/* Find trusted salons and beauty experts at your fingertips, making every choice a confident one. */
+
+position: absolute;
+width: 724.83px;
+height: 65px;
+left: 0px;
+top: 623.36px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20.1342px;
+line-height: 32px;
+/* or 160% */
+
+color: #6D6D6D;
+
+
+
+/* From Finding the Right Salon to Booking Your Slot—We Make It Easy. */
+
+position: absolute;
+width: 724.83px;
+height: 97px;
+left: 0px;
+top: 504.16px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 38.6577px;
+line-height: 48px;
+/* or 125% */
+
+color: #353535;
+
+
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12.8859px 115.973px;
+gap: 8.05px;
+
+position: absolute;
+width: 308.46px;
+height: 56.38px;
+left: 94px;
+top: 522.5px;
+
+background: linear-gradient(270deg, #BB23DA 0%, #AD5389 100%);
+border-radius: 6.44295px;
+
+
+/* Get Listed */
+
+width: 77px;
+height: 30px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20.1342px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Salons */
+
+position: absolute;
+width: 1540px;
+height: 370px;
+left: calc(50% - 1540px/2 - 0px);
+top: 2388px;
+
+
+
+/* salons */
+
+position: absolute;
+left: 5.39%;
+right: 5.32%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Group 35 */
+
+position: absolute;
+width: 2781.31px;
+height: 369.61px;
+left: 0px;
+top: 0px;
+
+
+
+/* Product/light */
+
+position: absolute;
+width: 434.31px;
+height: 369.61px;
+left: 0px;
+top: 0px;
+
+/* Shades/White */
+background: #FFFFFF;
+border: 0.886355px solid #A0A0A0;
+border-radius: 3.54542px;
+
+
+/* Container */
+
+position: absolute;
+width: 405.95px;
+height: 321.75px;
+left: 14.18px;
+top: 14.18px;
+
+
+
+/* Image */
+
+position: absolute;
+width: 405.95px;
+height: 164.86px;
+left: 0px;
+top: 0px;
+
+background: url(barber-shop-sekira-vracar_0_md.jpg);
+border-radius: 3.54542px;
+
+
+/* Like */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 5.31813px;
+gap: 8.86px;
+
+position: absolute;
+width: 28.36px;
+height: 28.36px;
+right: 8.86px;
+top: 8.86px;
+
+/* Shades/White */
+background: #FFFFFF;
+border-radius: 44.3178px;
+
+
+/* Icon */
+
+width: 17.73px;
+height: 17.73px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Shape */
+
+position: absolute;
+left: 7.59%;
+right: 7.58%;
+top: 15.84%;
+bottom: 7.7%;
+
+/* Neutral / 800 */
+background: #191D23;
+
+
+/* Content */
+
+position: absolute;
+width: 405.95px;
+height: 146.25px;
+left: 0px;
+top: 175.5px;
+
+
+
+/* Header */
+
+position: absolute;
+width: 340.36px;
+height: 35.45px;
+left: 0px;
+top: 0px;
+
+
+
+/* Title */
+
+position: absolute;
+width: 340.36px;
+height: 18.61px;
+left: 0px;
+top: 7.98px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 14.1817px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+color: #353535;
+
+
+
+/* State Bank Chowk, near postal ground, Yavatmal. */
+
+position: absolute;
+width: 305px;
+height: 19px;
+left: 0px;
+top: 40.77px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12.409px;
+line-height: 19px;
+/* identical to box height */
+
+color: #353535;
+
+
+
+/* rating */
+
+position: absolute;
+width: 137.89px;
+height: 24.05px;
+left: 0px;
+top: 73.57px;
+
+
+
+/* 4.5 / 5 */
+
+position: absolute;
+width: 40px;
+height: 19px;
+left: 34.57px;
+top: 76.23px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 12.409px;
+line-height: 19px;
+/* identical to box height */
+
+color: #353535;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 93.77%;
+top: 50.3%;
+bottom: 33.25%;
+
+background: #FFC64A;
+
+
+/* Reviews */
+
+position: absolute;
+width: 54.57px;
+height: 23.93px;
+left: 83.32px;
+top: 73.57px;
+
+
+
+/* Ellipse */
+
+position: absolute;
+width: 23.93px;
+height: 23.93px;
+left: 113.96px;
+top: 73.57px;
+
+background: url(.png);
+
+
+/* Ellipse */
+
+position: absolute;
+width: 23.93px;
+height: 23.93px;
+left: 101.99px;
+top: 73.57px;
+
+background: url(.png);
+
+
+/* Ellipse */
+
+position: absolute;
+width: 23.93px;
+height: 23.93px;
+left: 92.18px;
+top: 73.57px;
+
+background: url(.png);
+
+
+/* Ellipse */
+
+position: absolute;
+width: 23.93px;
+height: 23.93px;
+left: 83.32px;
+top: 73.57px;
+
+background: #BB23DA;
+
+
+/* 128 + */
+
+position: absolute;
+width: 17px;
+height: 10px;
+left: 86.86px;
+top: 80.66px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 6.49994px;
+line-height: 10px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Buttons */
+
+position: absolute;
+width: 405.95px;
+height: 39px;
+left: 14.18px;
+top: 316.43px;
+
+
+
+/* Cart */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 56.73px;
+height: 39px;
+left: 0px;
+top: 0px;
+
+/* Shades/White */
+background: #FFFFFF;
+/* Neutral / 200 */
+border: 0.886355px solid #D0D5DD;
+border-radius: 3.54542px;
+
+
+/* stash:save-ribbon */
+
+position: absolute;
+width: 21.27px;
+height: 21.27px;
+left: 17.73px;
+top: 8.86px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 12.5%;
+bottom: 14.31%;
+
+border: 1.32953px solid #A0A0A0;
+
+
+/* CTA */
+
+position: absolute;
+width: 338.59px;
+height: 39px;
+left: 67.36px;
+top: 0px;
+
+background: linear-gradient(90deg, #AD5389 0%, #BB23DA 100%);
+border-radius: 3.54542px;
+
+
+/* Label */
+
+position: absolute;
+width: 73px;
+height: 18px;
+left: calc(50% - 73px/2 + 0.16px);
+top: calc(50% - 18px/2 + 0.14px);
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 600;
+font-size: 14.1817px;
+line-height: 18px;
+/* identical to box height, or 125% */
+
+color: #FFFFFF;
+
+
+
+/* Product/light */
+
+position: absolute;
+width: 434.31px;
+height: 369.61px;
+left: 469.84px;
+top: 0px;
+
+/* Shades/White */
+background: #FFFFFF;
+border: 0.886355px solid #A0A0A0;
+border-radius: 3.54542px;
+
+
+/* Container */
+
+position: absolute;
+width: 405.95px;
+height: 321.75px;
+left: 14.18px;
+top: 14.18px;
+
+
+
+/* Image */
+
+position: absolute;
+width: 405.95px;
+height: 164.86px;
+left: 0px;
+top: 0px;
+
+background: url(download (1).png);
+border-radius: 3.54542px;
+
+
+/* Like */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 5.31813px;
+gap: 8.86px;
+
+position: absolute;
+width: 28.36px;
+height: 28.36px;
+right: 8.86px;
+top: 8.86px;
+
+/* Shades/White */
+background: #FFFFFF;
+border-radius: 44.3178px;
+
+
+/* Icon */
+
+width: 17.73px;
+height: 17.73px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Shape */
+
+position: absolute;
+left: 7.58%;
+right: 7.58%;
+top: 15.84%;
+bottom: 7.7%;
+
+/* Neutral / 800 */
+background: #191D23;
+
+
+/* Content */
+
+position: absolute;
+width: 405.95px;
+height: 146.25px;
+left: 0px;
+top: 175.5px;
+
+
+
+/* Header */
+
+position: absolute;
+width: 340.36px;
+height: 35.45px;
+left: 0px;
+top: 0px;
+
+
+
+/* Title */
+
+position: absolute;
+width: 340.36px;
+height: 18.61px;
+left: 0px;
+top: 7.98px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 14.1817px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+color: #353535;
+
+
+
+/* Daate Chowk, near Daate college, Yavatmal. */
+
+position: absolute;
+width: 276px;
+height: 19px;
+left: 0px;
+top: 40.77px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12.409px;
+line-height: 19px;
+/* identical to box height */
+
+color: #353535;
+
+
+
+/* rating */
+
+position: absolute;
+width: 137.89px;
+height: 24.05px;
+left: 0px;
+top: 73.57px;
+
+
+
+/* 4.5 / 5 */
+
+position: absolute;
+width: 40px;
+height: 19px;
+left: 34.57px;
+top: 76.23px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 12.409px;
+line-height: 19px;
+/* identical to box height */
+
+color: #353535;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 93.77%;
+top: 50.3%;
+bottom: 33.25%;
+
+background: #FFC64A;
+
+
+/* Reviews */
+
+position: absolute;
+width: 54.57px;
+height: 23.93px;
+left: 83.32px;
+top: 73.57px;
+
+
+
+/* Ellipse */
+
+position: absolute;
+width: 23.93px;
+height: 23.93px;
+left: 113.96px;
+top: 73.57px;
+
+background: url(.png);
+
+
+/* Ellipse */
+
+position: absolute;
+width: 23.93px;
+height: 23.93px;
+left: 101.99px;
+top: 73.57px;
+
+background: url(.png);
+
+
+/* Ellipse */
+
+position: absolute;
+width: 23.93px;
+height: 23.93px;
+left: 92.18px;
+top: 73.57px;
+
+background: url(.png);
+
+
+/* Ellipse */
+
+position: absolute;
+width: 23.93px;
+height: 23.93px;
+left: 83.32px;
+top: 73.57px;
+
+background: #BB23DA;
+
+
+/* 128 + */
+
+position: absolute;
+width: 17px;
+height: 10px;
+left: 86.86px;
+top: 80.66px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 6.49994px;
+line-height: 10px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Buttons */
+
+position: absolute;
+width: 405.95px;
+height: 39px;
+left: 14.18px;
+top: 316.43px;
+
+
+
+/* Cart */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 56.73px;
+height: 39px;
+left: 0px;
+top: 0px;
+
+/* Shades/White */
+background: #FFFFFF;
+/* Neutral / 200 */
+border: 0.886355px solid #D0D5DD;
+border-radius: 3.54542px;
+
+
+/* stash:save-ribbon */
+
+position: absolute;
+width: 21.27px;
+height: 21.27px;
+left: 17.73px;
+top: 8.86px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 12.5%;
+bottom: 14.31%;
+
+border: 1.32953px solid #A0A0A0;
+
+
+/* CTA */
+
+position: absolute;
+width: 338.59px;
+height: 39px;
+left: 67.36px;
+top: 0px;
+
+background: linear-gradient(90deg, #AD5389 0%, #BB23DA 100%);
+border-radius: 3.54542px;
+
+
+/* Label */
+
+position: absolute;
+width: 73px;
+height: 18px;
+left: calc(50% - 73px/2 + 0.16px);
+top: calc(50% - 18px/2 + 0.14px);
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 600;
+font-size: 14.1817px;
+line-height: 18px;
+/* identical to box height, or 125% */
+
+color: #FFFFFF;
+
+
+
+/* Product/light */
+
+position: absolute;
+width: 434.31px;
+height: 369.61px;
+left: 939.69px;
+top: 0px;
+
+/* Shades/White */
+background: #FFFFFF;
+border: 0.886355px solid #A0A0A0;
+border-radius: 3.54542px;
+
+
+/* Container */
+
+position: absolute;
+width: 405.95px;
+height: 321.75px;
+left: 14.18px;
+top: 14.18px;
+
+
+
+/* Image */
+
+position: absolute;
+width: 405.95px;
+height: 164.86px;
+left: 0px;
+top: 0px;
+
+background: url(2150555185);
+border-radius: 3.54542px;
+
+
+/* Like */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 5.31813px;
+gap: 8.86px;
+
+position: absolute;
+width: 28.36px;
+height: 28.36px;
+right: 8.86px;
+top: 8.86px;
+
+/* Shades/White */
+background: #FFFFFF;
+border-radius: 44.3178px;
+
+
+/* Icon */
+
+width: 17.73px;
+height: 17.73px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Shape */
+
+position: absolute;
+left: 7.58%;
+right: 7.58%;
+top: 15.84%;
+bottom: 7.7%;
+
+/* Neutral / 800 */
+background: #191D23;
+
+
+/* Content */
+
+position: absolute;
+width: 405.95px;
+height: 146.25px;
+left: 0px;
+top: 175.5px;
+
+
+
+/* Header */
+
+position: absolute;
+width: 340.36px;
+height: 35.45px;
+left: 0px;
+top: 0px;
+
+
+
+/* Title */
+
+position: absolute;
+width: 340.36px;
+height: 18.61px;
+left: 0px;
+top: 7.98px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 14.1817px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+color: #353535;
+
+
+
+/* State Bank Chowk, near postal ground, Yavatmal. */
+
+position: absolute;
+width: 305px;
+height: 19px;
+left: 0px;
+top: 40.77px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12.409px;
+line-height: 19px;
+/* identical to box height */
+
+color: #353535;
+
+
+
+/* rating */
+
+position: absolute;
+width: 137.89px;
+height: 24.05px;
+left: 0px;
+top: 73.57px;
+
+
+
+/* 4.5 / 5 */
+
+position: absolute;
+width: 40px;
+height: 19px;
+left: 34.57px;
+top: 76.23px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 12.409px;
+line-height: 19px;
+/* identical to box height */
+
+color: #353535;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 93.77%;
+top: 50.3%;
+bottom: 33.25%;
+
+background: #FFC64A;
+
+
+/* Reviews */
+
+position: absolute;
+width: 54.57px;
+height: 23.93px;
+left: 83.32px;
+top: 73.57px;
+
+
+
+/* Ellipse */
+
+position: absolute;
+width: 23.93px;
+height: 23.93px;
+left: 113.96px;
+top: 73.57px;
+
+background: url(.png);
+
+
+/* Ellipse */
+
+position: absolute;
+width: 23.93px;
+height: 23.93px;
+left: 101.99px;
+top: 73.57px;
+
+background: url(.png);
+
+
+/* Ellipse */
+
+position: absolute;
+width: 23.93px;
+height: 23.93px;
+left: 92.18px;
+top: 73.57px;
+
+background: url(.png);
+
+
+/* Ellipse */
+
+position: absolute;
+width: 23.93px;
+height: 23.93px;
+left: 83.32px;
+top: 73.57px;
+
+background: #BB23DA;
+
+
+/* 128 + */
+
+position: absolute;
+width: 17px;
+height: 10px;
+left: 86.86px;
+top: 80.66px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 6.49994px;
+line-height: 10px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Buttons */
+
+position: absolute;
+width: 405.95px;
+height: 39px;
+left: 14.18px;
+top: 316.43px;
+
+
+
+/* Cart */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 56.73px;
+height: 39px;
+left: 0px;
+top: 0px;
+
+/* Shades/White */
+background: #FFFFFF;
+/* Neutral / 200 */
+border: 0.886355px solid #D0D5DD;
+border-radius: 3.54542px;
+
+
+/* stash:save-ribbon */
+
+position: absolute;
+width: 21.27px;
+height: 21.27px;
+left: 17.73px;
+top: 8.86px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 24.99%;
+right: 25.01%;
+top: 12.5%;
+bottom: 14.31%;
+
+border: 1.32953px solid #A0A0A0;
+
+
+/* CTA */
+
+position: absolute;
+width: 338.59px;
+height: 39px;
+left: 67.36px;
+top: 0px;
+
+background: linear-gradient(90deg, #AD5389 0%, #BB23DA 100%);
+border-radius: 3.54542px;
+
+
+/* Label */
+
+position: absolute;
+width: 73px;
+height: 18px;
+left: calc(50% - 73px/2 + 0.16px);
+top: calc(50% - 18px/2 + 0.14px);
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 600;
+font-size: 14.1817px;
+line-height: 18px;
+/* identical to box height, or 125% */
+
+color: #FFFFFF;
+
+
+
+/* Product/light */
+
+position: absolute;
+width: 434.31px;
+height: 369.61px;
+left: 1409px;
+top: 0px;
+
+/* Shades/White */
+background: #FFFFFF;
+border: 0.886355px solid #A0A0A0;
+border-radius: 3.54542px;
+
+
+/* Container */
+
+position: absolute;
+width: 405.95px;
+height: 321.75px;
+left: 14.18px;
+top: 14.18px;
+
+
+
+/* Image */
+
+position: absolute;
+width: 405.95px;
+height: 164.86px;
+left: 0px;
+top: 0px;
+
+background: url(istockphoto-469090778-612x612);
+border-radius: 3.54542px;
+
+
+/* Like */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 5.31813px;
+gap: 8.86px;
+
+position: absolute;
+width: 28.36px;
+height: 28.36px;
+right: 8.86px;
+top: 8.86px;
+
+/* Shades/White */
+background: #FFFFFF;
+border-radius: 44.3177px;
+
+
+/* Icon */
+
+width: 17.73px;
+height: 17.73px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Shape */
+
+position: absolute;
+left: 7.59%;
+right: 7.58%;
+top: 15.84%;
+bottom: 7.7%;
+
+/* Neutral / 800 */
+background: #191D23;
+
+
+/* Content */
+
+position: absolute;
+width: 405.95px;
+height: 146.25px;
+left: 0px;
+top: 175.5px;
+
+
+
+/* Header */
+
+position: absolute;
+width: 340.36px;
+height: 35.45px;
+left: 0px;
+top: 0px;
+
+
+
+/* Title */
+
+position: absolute;
+width: 340.36px;
+height: 18.61px;
+left: 0px;
+top: 7.98px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 14.1817px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+color: #353535;
+
+
+
+/* State Bank Chowk, near postal ground, Yavatmal. */
+
+position: absolute;
+width: 305px;
+height: 19px;
+left: 0px;
+top: 40.77px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12.409px;
+line-height: 19px;
+/* identical to box height */
+
+color: #353535;
+
+
+
+/* rating */
+
+position: absolute;
+width: 137.89px;
+height: 24.05px;
+left: 0px;
+top: 73.57px;
+
+
+
+/* 4.5 / 5 */
+
+position: absolute;
+width: 40px;
+height: 19px;
+left: 34.57px;
+top: 76.23px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 12.409px;
+line-height: 19px;
+/* identical to box height */
+
+color: #353535;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 93.77%;
+top: 50.3%;
+bottom: 33.25%;
+
+background: #FFC64A;
+
+
+/* Reviews */
+
+position: absolute;
+width: 54.57px;
+height: 23.93px;
+left: 83.32px;
+top: 73.57px;
+
+
+
+/* Ellipse */
+
+position: absolute;
+width: 23.93px;
+height: 23.93px;
+left: 113.96px;
+top: 73.57px;
+
+background: url(.png);
+
+
+/* Ellipse */
+
+position: absolute;
+width: 23.93px;
+height: 23.93px;
+left: 101.99px;
+top: 73.57px;
+
+background: url(.png);
+
+
+/* Ellipse */
+
+position: absolute;
+width: 23.93px;
+height: 23.93px;
+left: 92.18px;
+top: 73.57px;
+
+background: url(.png);
+
+
+/* Ellipse */
+
+position: absolute;
+width: 23.93px;
+height: 23.93px;
+left: 83.32px;
+top: 73.57px;
+
+background: #BB23DA;
+
+
+/* 128 + */
+
+position: absolute;
+width: 17px;
+height: 10px;
+left: 86.86px;
+top: 80.66px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 6.49994px;
+line-height: 10px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Buttons */
+
+position: absolute;
+width: 405.95px;
+height: 39px;
+left: 14.18px;
+top: 316.43px;
+
+
+
+/* Cart */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 56.73px;
+height: 39px;
+left: 0px;
+top: 0px;
+
+/* Shades/White */
+background: #FFFFFF;
+/* Neutral / 200 */
+border: 0.886355px solid #D0D5DD;
+border-radius: 3.54542px;
+
+
+/* stash:save-ribbon */
+
+position: absolute;
+width: 21.27px;
+height: 21.27px;
+left: 17.73px;
+top: 8.86px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 12.5%;
+bottom: 14.31%;
+
+border: 1.32953px solid #A0A0A0;
+
+
+/* CTA */
+
+position: absolute;
+width: 338.59px;
+height: 39px;
+left: 67.36px;
+top: 0px;
+
+background: linear-gradient(90deg, #AD5389 0%, #BB23DA 100%);
+border-radius: 3.54542px;
+
+
+/* Label */
+
+position: absolute;
+width: 73px;
+height: 18px;
+left: calc(50% - 73px/2 + 0.16px);
+top: calc(50% - 18px/2 + 0.14px);
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 600;
+font-size: 14.1817px;
+line-height: 18px;
+/* identical to box height, or 125% */
+
+color: #FFFFFF;
+
+
+
+/* Product/light */
+
+position: absolute;
+width: 434.31px;
+height: 369.61px;
+left: 1878px;
+top: 0px;
+
+/* Shades/White */
+background: #FFFFFF;
+border: 0.886355px solid #A0A0A0;
+border-radius: 3.54542px;
+
+
+/* Container */
+
+position: absolute;
+width: 405.95px;
+height: 321.75px;
+left: 14.18px;
+top: 14.18px;
+
+
+
+/* Image */
+
+position: absolute;
+width: 405.95px;
+height: 164.86px;
+left: 0px;
+top: 0px;
+
+background: url(download);
+border-radius: 3.54542px;
+
+
+/* Like */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 5.31813px;
+gap: 8.86px;
+
+position: absolute;
+width: 28.36px;
+height: 28.36px;
+right: 8.86px;
+top: 8.86px;
+
+/* Shades/White */
+background: #FFFFFF;
+border-radius: 44.3177px;
+
+
+/* Icon */
+
+width: 17.73px;
+height: 17.73px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Shape */
+
+position: absolute;
+left: 7.59%;
+right: 7.58%;
+top: 15.84%;
+bottom: 7.7%;
+
+/* Neutral / 800 */
+background: #191D23;
+
+
+/* Content */
+
+position: absolute;
+width: 405.95px;
+height: 146.25px;
+left: 0px;
+top: 175.5px;
+
+
+
+/* Header */
+
+position: absolute;
+width: 340.36px;
+height: 35.45px;
+left: 0px;
+top: 0px;
+
+
+
+/* Title */
+
+position: absolute;
+width: 340.36px;
+height: 18.61px;
+left: 0px;
+top: 7.98px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 14.1817px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+color: #353535;
+
+
+
+/* Ekvira Chowk, near HDFC bank, Yavatmal. */
+
+position: absolute;
+width: 255px;
+height: 19px;
+left: 0px;
+top: 40.77px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12.409px;
+line-height: 19px;
+/* identical to box height */
+
+color: #353535;
+
+
+
+/* rating */
+
+position: absolute;
+width: 137.89px;
+height: 24.05px;
+left: 0px;
+top: 73.57px;
+
+
+
+/* 4.5 / 5 */
+
+position: absolute;
+width: 40px;
+height: 19px;
+left: 34.57px;
+top: 76.23px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 12.409px;
+line-height: 19px;
+/* identical to box height */
+
+color: #353535;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 93.77%;
+top: 50.3%;
+bottom: 33.25%;
+
+background: #FFC64A;
+
+
+/* Reviews */
+
+position: absolute;
+width: 54.57px;
+height: 23.93px;
+left: 83.32px;
+top: 73.57px;
+
+
+
+/* Ellipse */
+
+position: absolute;
+width: 23.93px;
+height: 23.93px;
+left: 113.96px;
+top: 73.57px;
+
+background: url(.png);
+
+
+/* Ellipse */
+
+position: absolute;
+width: 23.93px;
+height: 23.93px;
+left: 101.99px;
+top: 73.57px;
+
+background: url(.png);
+
+
+/* Ellipse */
+
+position: absolute;
+width: 23.93px;
+height: 23.93px;
+left: 92.18px;
+top: 73.57px;
+
+background: url(.png);
+
+
+/* Ellipse */
+
+position: absolute;
+width: 23.93px;
+height: 23.93px;
+left: 83.32px;
+top: 73.57px;
+
+background: #BB23DA;
+
+
+/* 128 + */
+
+position: absolute;
+width: 17px;
+height: 10px;
+left: 86.86px;
+top: 80.66px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 6.49994px;
+line-height: 10px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Buttons */
+
+position: absolute;
+width: 405.95px;
+height: 39px;
+left: 14.18px;
+top: 316.43px;
+
+
+
+/* Cart */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 56.73px;
+height: 39px;
+left: 0px;
+top: 0px;
+
+/* Shades/White */
+background: #FFFFFF;
+/* Neutral / 200 */
+border: 0.886355px solid #D0D5DD;
+border-radius: 3.54542px;
+
+
+/* stash:save-ribbon */
+
+position: absolute;
+width: 21.27px;
+height: 21.27px;
+left: 17.73px;
+top: 8.86px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 12.5%;
+bottom: 14.31%;
+
+border: 1.32953px solid #A0A0A0;
+
+
+/* CTA */
+
+position: absolute;
+width: 338.59px;
+height: 39px;
+left: 67.36px;
+top: 0px;
+
+background: linear-gradient(90deg, #AD5389 0%, #BB23DA 100%);
+border-radius: 3.54542px;
+
+
+/* Label */
+
+position: absolute;
+width: 73px;
+height: 18px;
+left: calc(50% - 73px/2 + 0.16px);
+top: calc(50% - 18px/2 + 0.14px);
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 600;
+font-size: 14.1817px;
+line-height: 18px;
+/* identical to box height, or 125% */
+
+color: #FFFFFF;
+
+
+
+/* Product/light */
+
+position: absolute;
+width: 434.31px;
+height: 369.61px;
+left: 2347px;
+top: 0px;
+
+/* Shades/White */
+background: #FFFFFF;
+border: 0.886355px solid #A0A0A0;
+border-radius: 3.54542px;
+
+
+/* Container */
+
+position: absolute;
+width: 405.95px;
+height: 321.75px;
+left: 14.18px;
+top: 14.18px;
+
+
+
+/* Image */
+
+position: absolute;
+width: 405.95px;
+height: 164.86px;
+left: 0px;
+top: 0px;
+
+background: url(7621bb6087ee02d1c51a38663c88e6b0);
+border-radius: 3.54542px;
+
+
+/* Like */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 5.31813px;
+gap: 8.86px;
+
+position: absolute;
+width: 28.36px;
+height: 28.36px;
+right: 8.86px;
+top: 8.86px;
+
+/* Shades/White */
+background: #FFFFFF;
+border-radius: 44.3177px;
+
+
+/* Icon */
+
+width: 17.73px;
+height: 17.73px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Shape */
+
+position: absolute;
+left: 7.59%;
+right: 7.58%;
+top: 15.84%;
+bottom: 7.7%;
+
+/* Neutral / 800 */
+background: #191D23;
+
+
+/* Content */
+
+position: absolute;
+width: 405.95px;
+height: 146.25px;
+left: 0px;
+top: 175.5px;
+
+
+
+/* Header */
+
+position: absolute;
+width: 340.36px;
+height: 35.45px;
+left: 0px;
+top: 0px;
+
+
+
+/* Title */
+
+position: absolute;
+width: 340.36px;
+height: 18.61px;
+left: 0px;
+top: 7.98px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 14.1817px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+color: #353535;
+
+
+
+/* State Bank Chowk, near postal ground, Yavatmal. */
+
+position: absolute;
+width: 305px;
+height: 19px;
+left: 0px;
+top: 40.77px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12.409px;
+line-height: 19px;
+/* identical to box height */
+
+color: #353535;
+
+
+
+/* rating */
+
+position: absolute;
+width: 137.89px;
+height: 24.05px;
+left: 0px;
+top: 73.57px;
+
+
+
+/* 4.5 / 5 */
+
+position: absolute;
+width: 40px;
+height: 19px;
+left: 34.57px;
+top: 76.23px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 12.409px;
+line-height: 19px;
+/* identical to box height */
+
+color: #353535;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 93.77%;
+top: 50.3%;
+bottom: 33.25%;
+
+background: #FFC64A;
+
+
+/* Reviews */
+
+position: absolute;
+width: 54.57px;
+height: 23.93px;
+left: 83.32px;
+top: 73.57px;
+
+
+
+/* Ellipse */
+
+position: absolute;
+width: 23.93px;
+height: 23.93px;
+left: 113.96px;
+top: 73.57px;
+
+background: url(.png);
+
+
+/* Ellipse */
+
+position: absolute;
+width: 23.93px;
+height: 23.93px;
+left: 101.99px;
+top: 73.57px;
+
+background: url(.png);
+
+
+/* Ellipse */
+
+position: absolute;
+width: 23.93px;
+height: 23.93px;
+left: 92.18px;
+top: 73.57px;
+
+background: url(.png);
+
+
+/* Ellipse */
+
+position: absolute;
+width: 23.93px;
+height: 23.93px;
+left: 83.32px;
+top: 73.57px;
+
+background: #BB23DA;
+
+
+/* 128 + */
+
+position: absolute;
+width: 17px;
+height: 10px;
+left: 86.86px;
+top: 80.66px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 6.49994px;
+line-height: 10px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Buttons */
+
+position: absolute;
+width: 405.95px;
+height: 39px;
+left: 14.18px;
+top: 316.43px;
+
+
+
+/* Cart */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 56.73px;
+height: 39px;
+left: 0px;
+top: 0px;
+
+/* Shades/White */
+background: #FFFFFF;
+/* Neutral / 200 */
+border: 0.886355px solid #D0D5DD;
+border-radius: 3.54542px;
+
+
+/* stash:save-ribbon */
+
+position: absolute;
+width: 21.27px;
+height: 21.27px;
+left: 17.73px;
+top: 8.86px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 12.5%;
+bottom: 14.31%;
+
+border: 1.32953px solid #A0A0A0;
+
+
+/* CTA */
+
+position: absolute;
+width: 338.59px;
+height: 39px;
+left: 67.36px;
+top: 0px;
+
+background: linear-gradient(90deg, #AD5389 0%, #BB23DA 100%);
+border-radius: 3.54542px;
+
+
+/* Label */
+
+position: absolute;
+width: 73px;
+height: 18px;
+left: calc(50% - 73px/2 + 0.16px);
+top: calc(50% - 18px/2 + 0.14px);
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 600;
+font-size: 14.1817px;
+line-height: 18px;
+/* identical to box height, or 125% */
+
+color: #FFFFFF;
+
+
+
+/* Group 30 */
+
+position: absolute;
+left: 95.44%;
+right: 0%;
+top: 40.62%;
+bottom: 40.28%;
+
+
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 16px 64px;
+gap: 10px;
+
+position: absolute;
+left: 95.44%;
+right: 0%;
+top: 40.62%;
+bottom: 40.28%;
+
+background: #EBEBEB;
+border-radius: 8px;
+
+
+/* Get Listed */
+
+margin: 0 auto;
+display: none;
+width: 125px;
+height: 38px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 38px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 97.07%;
+right: 1.63%;
+top: 52.08%;
+bottom: 44.1%;
+
+border: 3px solid #353535;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Group 29 */
+
+position: absolute;
+left: 0%;
+right: 95.44%;
+top: 40.62%;
+bottom: 40.28%;
+
+
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 16px 64px;
+gap: 10px;
+
+position: absolute;
+left: 0%;
+right: 95.44%;
+top: 40.62%;
+bottom: 40.28%;
+
+background: #EBEBEB;
+border-radius: 8px;
+
+
+/* Get Listed */
+
+margin: 0 auto;
+display: none;
+width: 125px;
+height: 38px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 38px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 2.93%;
+right: 95.77%;
+top: 52.08%;
+bottom: 44.1%;
+
+border: 3px solid #353535;
+transform: rotate(-180deg);
+
+
+/* about */
+
+position: absolute;
+width: 1539px;
+height: 717px;
+left: 94px;
+top: 3028px;
+
+
+
+/* About SalonX */
+
+position: absolute;
+width: 330px;
+height: 60px;
+left: calc(50% - 330px/2);
+top: 3028px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 60px;
+/* identical to box height, or 125% */
+text-align: center;
+
+color: #353535;
+
+
+
+/* Group 152 */
+
+position: absolute;
+width: 1539px;
+height: 577px;
+left: 94px;
+top: 3168px;
+
+
+
+/* Salon X */
+
+position: absolute;
+width: 595.97px;
+height: 49px;
+left: 102px;
+top: 3168px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 38.6577px;
+line-height: 48px;
+/* identical to box height, or 125% */
+
+color: #353535;
+
+
+
+/* Rectangle 14241 */
+
+position: absolute;
+width: 826px;
+height: 577px;
+left: 807px;
+top: 3168px;
+
+background: url(Lead_e305ap.jpg);
+border-radius: 16px;
+
+
+/* Group 150 */
+
+position: absolute;
+width: 604px;
+height: 447px;
+left: 94px;
+top: 3258px;
+
+
+
+/* This user-friendly website connects users with salons and barbers, making it easy to find, browse, and book appointments. */
+
+position: absolute;
+width: 595.97px;
+height: 97px;
+left: 94px;
+top: 3258px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20.1342px;
+line-height: 32px;
+/* or 160% */
+
+color: #6D6D6D;
+
+
+
+/* Group 151 */
+
+position: absolute;
+width: 604px;
+height: 288px;
+left: 94px;
+top: 3417px;
+
+
+
+/* Line 26 */
+
+position: absolute;
+width: 292px;
+height: 0px;
+left: 94px;
+top: 3417px;
+
+border: 1px solid #BB23DA;
+
+
+/* Line 28 */
+
+position: absolute;
+width: 292px;
+height: 0px;
+left: 94px;
+top: 3585px;
+
+border: 1px solid #BB23DA;
+
+
+/* Line 27 */
+
+position: absolute;
+width: 292px;
+height: 0px;
+left: 406px;
+top: 3417px;
+
+border: 1px solid #BB23DA;
+
+
+/* Line 29 */
+
+position: absolute;
+width: 292px;
+height: 0px;
+left: 406px;
+top: 3585px;
+
+border: 1px solid #BB23DA;
+
+
+/* Group 148 */
+
+position: absolute;
+width: 216px;
+height: 90px;
+left: 94px;
+top: 3447px;
+
+
+
+/* Since 2024 */
+
+position: absolute;
+width: 109px;
+height: 33px;
+left: 94px;
+top: 3504px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20.1342px;
+line-height: 32px;
+/* identical to box height, or 160% */
+
+color: #6D6D6D;
+
+
+
+/* 500+ Users */
+
+position: absolute;
+width: 216px;
+height: 57px;
+left: 94px;
+top: 3447px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 38px;
+line-height: 57px;
+/* identical to box height */
+
+color: #353535;
+
+
+
+/* Group 149 */
+
+position: absolute;
+width: 254px;
+height: 90px;
+left: 406px;
+top: 3447px;
+
+
+
+/* 365 Reviews */
+
+position: absolute;
+width: 124px;
+height: 33px;
+left: 406px;
+top: 3504px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20.1342px;
+line-height: 32px;
+/* identical to box height, or 160% */
+
+color: #6D6D6D;
+
+
+
+/* 3.5 / 5 Rating */
+
+position: absolute;
+width: 254px;
+height: 57px;
+left: 406px;
+top: 3447px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 38px;
+line-height: 57px;
+/* identical to box height */
+
+color: #353535;
+
+
+
+/* Appointment Booked */
+
+position: absolute;
+width: 213px;
+height: 33px;
+left: 94px;
+top: 3672px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20.1342px;
+line-height: 32px;
+/* identical to box height, or 160% */
+
+color: #6D6D6D;
+
+
+
+/* Happy Customers */
+
+position: absolute;
+width: 182px;
+height: 33px;
+left: 406px;
+top: 3672px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20.1342px;
+line-height: 32px;
+/* identical to box height, or 160% */
+
+color: #6D6D6D;
+
+
+
+/* 236 + */
+
+position: absolute;
+width: 101px;
+height: 57px;
+left: 94px;
+top: 3615px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 38px;
+line-height: 57px;
+/* identical to box height */
+
+color: #353535;
+
+
+
+/* 99% */
+
+position: absolute;
+width: 80px;
+height: 57px;
+left: 406px;
+top: 3615px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 38px;
+line-height: 57px;
+/* identical to box height */
+
+color: #353535;
+
+
+
+/* Nav Bar */
+
+position: absolute;
+width: 1728px;
+height: 148px;
+left: 0px;
+top: 0px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 1728px;
+height: 148px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+box-shadow: 0px 2px 20px rgba(0, 0, 0, 0.15);
+
+
+/* Nav Inner */
+
+position: absolute;
+width: 1540px;
+height: 62px;
+left: 94px;
+top: 44px;
+
+
+
+/* search bar */
+
+position: absolute;
+width: 427px;
+height: 61.72px;
+left: 906px;
+top: 44px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 427px;
+height: 61.72px;
+left: 906px;
+top: 44px;
+
+background: #FFFFFF;
+border: 1px solid #B4B4B4;
+border-radius: 8px;
+
+
+/* Search For Salons */
+
+position: absolute;
+width: 178px;
+height: 30px;
+left: 988px;
+top: 60px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #A0A0A0;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 54.51%;
+right: 43.98%;
+top: 1.15%;
+bottom: 98.37%;
+
+background: #A0A0A0;
+
+
+/* profile */
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 1586px;
+top: 51px;
+
+background: url(.png);
+
+
+/* Black Orange Modern Minimalist Professional Business Pet Grooming Logo (1) 1 */
+
+position: absolute;
+width: 176.46px;
+height: 62px;
+left: 94px;
+top: 44px;
+
+background: url(Black Orange Modern Minimalist Professional Business Pet Grooming Logo (1).png);
+
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 36px;
+gap: 10px;
+
+position: absolute;
+width: 173px;
+height: 62px;
+left: 1373px;
+top: 44px;
+
+background: linear-gradient(270deg, #BB23DA 0%, #AD5389 100%);
+border-radius: 8px;
+
+
+/* Get Listed */
+
+width: 101px;
+height: 30px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Options */
+
+position: absolute;
+width: 290px;
+height: 35px;
+left: 576px;
+top: 58px;
+
+
+
+/* Rectangle 4 */
+
+position: absolute;
+left: 33.33%;
+right: 63.19%;
+top: 1.64%;
+bottom: 98.28%;
+
+background: #BB23DA;
+border-radius: 45px;
+
+
+/* Services */
+
+position: absolute;
+left: 45.31%;
+right: 49.88%;
+top: 1.07%;
+bottom: 98.37%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #353535;
+
+
+
+/* Salons */
+
+position: absolute;
+left: 39.12%;
+right: 57%;
+top: 1.07%;
+bottom: 98.37%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #353535;
+
+
+
+/* Home */
+
+position: absolute;
+left: 33.33%;
+right: 63.19%;
+top: 1.07%;
+bottom: 98.37%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #BB23DA;
